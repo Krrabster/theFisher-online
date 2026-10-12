@@ -1,4 +1,4 @@
-# Čeština do hry theFisher online
+# Čeština a textury do hry theFisher online
 
 Česká lokalizace pro hru theFisher Online.
 
