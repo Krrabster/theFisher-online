@@ -1,11 +1,13 @@
 [BASE]
-iname=Arktický polární
-Explorer edtime=12/19/2023 2:53:59
+iname=Arktický polárník
+edtime=20.12.2025 13:57:42
 
 [Q]
-n1=\n Za jeden náklad můžeme nabídnout \n[cost] A x[acnt] "[atom]" \n\n____________________________\n Máte [cnt] kusy zboží
-n2=\n Cena za náklad [cost] a x[acnt] "[atom]" \n Máte [cnt] pieces \n------------------------------------\n Proto: [allcost] x[aacnt] "[atom]"
-a1=Prodej výrobků
+//-------- Nodes --------
+n1=Za den lze odevzdat <color='#C900FF'>[dtrade]</color>/<color='#C900FF'>[lim]</color>\nZa jednu zásilku ti můžeme dát\n<color='#C900FF'>[cost]</color> a <color='#C900FF'>[acnt]</color>× "<color='#C900FF'>[atom]</color>" \n\n____________________________\nMáte <color='#C900FF'>[cnt]</color> ks zboží
+n2=Limit <color='#C900FF'>[dtrade]</color>/<color='#C900FF'>[lim]</color>\nCena zásilky je <color='#C900FF'>[cost]</color> a <color='#C900FF'>[acnt]</color>× "<color='#C900FF'>[atom]</color>" \nMáte <color='#C900FF'>[cnt]</color> ks, prodáváme <color='#C900FF'>[tradecnt]</color> \n------------------------------------\nCELKEM: <color='#C900FF'>[allcost]</color> a <color='#C900FF'>[aacnt]</color>× "<color='#C900FF'>[atom]</color>"
+//-------- Answers --------
+a1=Prodat zboží
 a2=Odejít
 a3=Prodat vše
-
+a4=ADM

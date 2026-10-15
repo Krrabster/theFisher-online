@@ -1,18 +1,18 @@
 [BASE]
-image=
 iname=Oktoberfest
-edtime=20.09.2024 10:43:17
+edtime=24.09.2025 10:28:40
 
 [Q]
-n1=Ahoj [USER], jmenuji se Hans.\nVítejte na našem festivalu.Můžete si u mě koupit vše, co potřebujete k vaření piva..
-n2=Můžete lovit na jakékoli vodní ploše a někdy za ulovené ryby dostanete speciální mince. Tyto mince se mnou můžete vyměnit za suroviny a vařené pivo.!\n\nDalší informace naleznete v deníku
-n3=Hans Happy je zkušený sládek. Vlastní velký pivovar a vždy se považoval za nejlepšího v oboru. Hans se často účastní pivovarnických soutěží a rád se dohaduje, který druh piva je nejlepší.
-n4=V tomto vodním útvaru se vyskytují tyto druhy ryb z této akce:\n\n[FISHES]\nUlovené ryby se zotaví následující den
+//-------- Nodes --------
+n1=Ahoj <color='#C900FF'>[USER]</color>, jmenuji se Hans.\nVítej na naší slavnosti. U mě si můžeš koupit vše potřebné k vaření piva.
+n2=Ryby můžeš chytat v jakýchkoli vodách a někdy za ně získáš speciální mince. U mě je vyměníš za suroviny a můžeš vařit pivo!\n\nVíce se dozvíš v deníku
+n3=Hans Hapy je zkušený sládek. Vlastní velký pivovar a vždy se považoval za nejlepšího v oboru. Často přijímá výzvy k pivovarnickým soutěžím a rád se s ostatními přetahuje o to, kdo uvaří nejlepší pivo.
+n4=V těchto vodách žijí následující druhy pro tuto událost:\n\n<color='#C900FF'>[FISHES]</color>\nUlovené ryby se obnoví následující den
+//-------- Answers --------
 a1=Otevřít obchod
-a2=Přečtěte si více o akci
-a5=Co ulovit?
-a7=Adm
-a3=Uvědomil jsem si
-a4=Vezměte si časopis
-a6=Chápu
-
+a2=Více o události
+a3=Rozumím
+a4=Vzít deník
+a5=Co chytat?
+a6=Rozumím
+a7=adm

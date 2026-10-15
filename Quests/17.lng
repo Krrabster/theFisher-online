@@ -1,17 +1,17 @@
 [BASE]
-iname=Космоивент пульт
+iname=Kosmická událost – ovládací panel
 edtime=09.04.2026 16:16:05
 
 [Q]
 //-------- Nodes --------
-n1=
-n2=Наверное, не хватает деталей\n____________________________________________\nНужно [ntcnt] деталей, у вас [utcnt] деталей
-n3=Пульт активирован!
-n4=Приходите завтра
-n5=
+n1= 
+n2=Asi nám chybí součástky\n____________________________________________\nJe potřeba <color='#C900FF'>[ntcnt]</color> součástek, máte <color='#C900FF'>[utcnt]</color>
+n3=Ovládací panel je aktivován!
+n4=Přijďte zítra
+n5= 
 //-------- Answers --------
-a1=Уйти
-a2=Вставить деталь
-a3=Сбросить стадии
-a4=Запустить ракету!
-a5=Adm
+a1=Odejít
+a2=Vložit součástku
+a3=Resetovat postup
+a4=ODSTARTOVAT RAKETU!
+a5=ADM

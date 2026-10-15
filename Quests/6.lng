@@ -1,18 +1,19 @@
 [BASE]
 image=
-iname=Пра петрович
-edtime=20.04.2024 18:39:01
+iname=Pra Petrovič
+edtime=24.09.2024 16:26:00
 
 [Q]
-n1=- Jestli chceš prozkoumat zásoby ryb na naší základně, musíte ulovit\n<color='#40C4FF'>[FISHID]</color> \n\n\n
-n2=Dokážete chytit <color='#40C4FF'>[CNT]x  [FISHID]</color> ?\nPotřebujeme jen velké zástupce druhu\n<color='#C900FF'>(Týdenní)</color>
-n3=- Splňte mou předchozí žádost
-n4=- Skvělé. Vidím, že máme ještě ryby..\n\n
-n5=Adm
-
-a1=Další
+n1=- Abychom zjistili stav rybí populace v naší lokalitě, je třeba ulovit\n<color='#C900FF'>[FISHID]</color> \n\n\n
+n2=Dokážeš ulovit <color='#C900FF'>[CNT] ks [FISHID]</color> ?\nPotřebujeme větší jedince tohoto druhu\n<color='#C900FF'>(TÝDENNÍ ÚKOL)</color>
+n3=- Nejdřív splň mou předchozí žádost
+n4=- Výborně. Vidím, že u nás ještě ryby jsou\n\n
+n5=ADM
+a1=Pokračovat
 a3=--
 a2=Přijmout
+a6=ADM
 a4=Odejít
-a5=Vyzvednutí odměny
+a5=Vyzvednout odměnu
+a7=ADM
 

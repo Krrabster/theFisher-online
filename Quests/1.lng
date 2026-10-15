@@ -5,11 +5,11 @@ edtime=01.07.2023 15:36:20
 
 [Q]
 n0=
-n1=- Zítra přijedou moji přátelé, slíbil jsem jim, že uvařím polévku podle receptu mého dědečka.\n- Nemám dostatek [FISHID] na rybí polévku, a bohužel se nic nechytilo.! \n
-n2=Můžeš mi chytit <color='#40C4FF'>[CNT] kusů [FISHID]</color> ? Potřebuji jen větší!\n<color='#C900FF'>(Týdenní)</color>
-n3=- Splň mou předchozí žádost
-n4=- Moc děkuji za pomoc!\n- A tohle je dárek ode mě! \n
-a1=Další
+n1=- Zítra přijedou přátelé a slíbil jsem jim uvařit rybí polévku podle dědova receptu.\n- Na rybí polévku mi chybí <color='#C900FF'>[FISHID]</color> a jako naschvál nic nebere! \n
+n2=Nemohl bys mi chytit <color='#C900FF'>[CNT] ks [FISHID]</color> ?\nPotřebuji ale větší kusy!\n<color='#C900FF'>(TÝDENNÍ ÚKOL)</color>
+n3=- Nejdřív splň mou předchozí žádost
+n4=- Moc děkuji! Zachránil jsi mě!\n- A tady máš ode mě dárek! \n
+a1=Pokračovat
 a3=--
 a2=Přijmout
 a4=Odejít

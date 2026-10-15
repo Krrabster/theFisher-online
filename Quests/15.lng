@@ -1,17 +1,17 @@
 [BASE]
-iname=Vánoční stromeček
-edtime=20.12.2025 11:41:49
+iname=Novoroční stromek
+edtime=24.12.2025 13:24:22
 
 [Q]
 //-------- Nodes --------
-n1=
-n2=Pravděpodobně je třeba ozdobit vánoční stromeček.\n____________________________________________\nPotřebuješ [ntcnt] ozdoby, máš [utcnt] ozdobu/y.
-n3= Vánoční stromeček je ozdobený
-n4=Vrať se zítra.
-n5=
+n1= 
+n2=Asi bychom měli ozdobit stromeček\n____________________________________________\nJe potřeba <color='#C900FF'>[ntcnt]</color> ozdob, máte <color='#C900FF'>[utcnt]</color> ozdob
+n3= Stromeček je ozdobený
+n4=Přijďte zítra
+n5= 
 //-------- Answers --------
 a1=Odejít
-a2=Pověs ozdoby
-a3=Resetovat fáze
-a4=Vyzvedni si dárek
-a5=Adm
+a2=Pověsit ozdoby
+a3=Resetovat postup
+a4=Vyzvednout dárek
+a5=ADM

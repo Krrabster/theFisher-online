@@ -1,11 +1,11 @@
 [BASE]
 image=
-iname=Kráva
+iname=Kakula
 edtime=29.07.2023 19:01:35
 
 [Q]
-n1=Hmm, co to je?\nTy jo, to vypadlo z krávy, pořádný lejno a pěkně to smrdí...
-n2=Wow!\podívej se, co je uvnitř!\n\n[wpname] X[cnt]
-a1=Kopejte
+n1=Jé, co je to?\nVypadlo to z krávy. Že by něco ztratila?
+n2=No teda!\nPodívejte, co je uvnitř!\n\n<color='#C900FF'>[wpname]</color> x<color='#C900FF'>[cnt]</color>
+a1=Prohrabat se
 a2=Odejít
 
