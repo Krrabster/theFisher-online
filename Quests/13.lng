@@ -1,0 +1,15 @@
+[BASE]
+iname=Norský event
+edtime=03.02.2025 14:52:01
+
+[Q]
+//-------- Nodes --------
+n1=Vyzkoušejte naše bohaté fiskesuppe! Čerstvá ryba, smetana a zelenina, dokonalá kombinace!\n Pouze za 5 ørů!\n ----------------------------------------------------\nNyní máte [cnt] ørů
+n2=Děkujeme vám za váš nákup! Užijte si jídlo!
+n3=Nemáte dost peněz na nákup!
+n4=Kapitán Nicholas je starý mořský vlk, který strávil mnoho let na moři a stal se legendou mezi rybáři. Přijel do norska, aby se s mladými rybáři podělil o svá tajemství mořských plodů.
+//-------- Answers --------
+a1=Koupit porci za 5 ørů
+a2=...
+a3=Kupte si recept za 70 ørů
+a4=Správce

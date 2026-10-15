@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icon_data>
+	<icon id="1" name="Rad-kontaminace" info="Výdrž se neobnovuje" />
+	<icon id="2" name="Zákaz rybolovu" info="V této oblasti není povoleno rybaření." />
+	<icon id="3" name="Táborák" info="Jste v blízkosti táboráku. Síla efektu: [X]" />
+	<icon id="5" name="Rušení" info="Jste příliš blízko jiného rybáře." />
+	<icon id="7" name="Vesnice" info="Nacházíte se v rámci hranic osady." />
+	<icon id="8" name="Něco na prutu chybí" info="Na prutu chybí vybavení!" />
+	<icon id="10" name="*Batoh je plný!" info="" />
+	<icon id="11" name="Vezírek je plný!" info="Vezírek je plný nebo chybí; není kam uložit úlovek.
+Všechny nové úlovky musíte pustit." />
+	<icon id="12" name="Příliš lehká nástraha" info="Nástraha je pro tuto výbavu příliš lehká. Vzdálenost náhozu snížena o [X] %, přesnost náhozu snížena o [Y] %" />
+	<icon id="13" name="Příliš těžká nástraha" info="Nástraha je pro tuto výbavu příliš těžká. Opotřebení prutu se zvýšilo o [X] %, vzdálenost náhozu se zvýšila o [Y] %." />
+	<icon id="15" name="*Nová zpráva" info="Momentálně máte [X] nepřečtených zpráv." />
+	<icon id="20" name="VIP účet" info="Poskytuje následující bonusy:
+
+◆ +25 % k prodejní ceně ryb
+◆ +50 % ke zkušenostem za chycení ryb
+◆ -50 % k době čekání na nové úkoly
+◆ +100 % k obnově pracovních bodů (při online)
+◆ +100 slotů v inventáři a skladu
+◆ + možnost nastavovat značky na mapě
+◆ + zobrazení denních úkolů ze všech lokalit
+◆ + automatické zpracování ryb
+◆ + možnost vytvářet turnaje
+
+Zbývající čas:" />
+	<icon id="21" name="*Zkušenosti +[X]%" info="+[X] % Zkušeností za úlovky." />
+	<icon id="23" name="Sytost" info="Momentálně jste sytí. Účinky jídla jsou sníženy o [X] % a další efekty se neuplatní." />
+	<icon id="25" name="Žádná žízeň" info="Nedávno jste se napili. Účinky pití jsou sníženy o [X] % a další efekty se neuplatní." />
+	<icon id="28" name="Obnova výdrže +[X]" info="Obnovuje [X] jednotek výdrže za sekundu." />
+	<icon id="29" name="Maximální výdrž +[X]" info="Zvyšuje maximální výdrž o [X] jednotek." />
+	<icon id="32" name="*Prodej ryb +[X]%" info="+[X] % K zisku z prodeje ryb." />
+	<icon id="33" name="Slaná voda" info="Slanost vody: [X].
+Běžná výbava se opotřebovává rychleji. Pro tuto oblast je zapotřebí speciální mořská výbava a návnady." />
+	<icon id="34" name="Chodec" info="O [X] % vyšší rychlost chůze." />
+	<icon id="35" name="Běžec" info="O [X] % vyšší rychlost běhu." />
+	<icon id="36" name="Skupina" info="Byli jste pozváni do skupiny. Stiskněte [J] pro přijetí." />
+	<icon id="37" name="Intuice houbaře [X] m" info="Umožňuje vidět místa s houbami v okruhu [X] m." />
+	<icon id="38" name="Zvětšení vezírku +[X]" info="Zvyšuje kapacitu vezírku o [X] kg." />
+	<icon id="39" name="Certifikát +[X]%" info="+[X] % Zkušeností za chycení ryb a plnění úkolů." />
+	<icon id="40" name="Intuice farmáře [X] m" info="Umožňuje vidět zeleninu a bylinky v okruhu [X] m." />
+	<icon id="41" name="Intuice sběratele [X] m" info="Umožňuje vidět všechny zdroje v okruhu [X] m." />
+	<icon id="42" name="Změna činnosti" info="Urychluje obnovu pracovních bodů (pb) o [X] %." />
+	<icon id="43" name="Intuice zkušeného rybáře [X]%" info="Zvyšuje pravděpodobnost záběru velkých ryb o [X] %." />
+	<icon id="44" name="Zkušený řemeslník [X]%" info="Zvyšuje šanci na dodatečný výnos při výrobě o [X] %." />
+	<icon id="45" name="Sběrač [X]% na [Y]%" info="Při sběru zvyšuje o [X] % šanci na +[Y] % dodatečného výnosu." />
+	<icon id="46" name="Event: tržby +[X]%" info="+[X] % K zisku z prodeje ryb." />
+	<icon id="47" name="Event: zkušenosti +[X]%" info="+[X] % Zkušeností za úlovky." />
+	<icon id="60" name="Lovec mutantů +[X]" info="Zvyšuje četnost záběrů mutantů o +[X].
+Sčítá se s ostatními bonusy k četnosti záběrů mutantů." />
+	<icon id="62" name="Rybářův instinkt +[X]" info="Zvyšuje četnost záběrů velkých ryb o +[X].
+Sčítá se s ostatními bonusy k četnosti záběrů velkých ryb." />
+	<icon id="64" name="Instinkt profesionála +[X]" info="Zvyšuje četnost záběrů trofejních ryb o +[X].
+Sčítá se s ostatními bonusy k četnosti záběrů trofejních ryb." />
+	<icon id="65" name="Životnost [X]%" info="O [X] % nižší opotřebení náčiní a výbavy." />
+	<icon id="80" name="Bdělost [X]%" info="Bdělost ovlivňuje šanci na získání předmětů akce. Při bdělosti 100 % je šance na úlovek maximální." />
+	<icon id="100" name="Rybářský lístek" info="Předplacený čas přístupu k vodní ploše.
+Získá se pomocí cestovního lístku.
+
+Zbývající čas:" />
+</icon_data>

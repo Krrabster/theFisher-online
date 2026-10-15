@@ -1,0 +1,4 @@
+[HINTS]
+
+hint=Různé ryby preferují různá místa. Experimentujte s lokací, hloubkou a návnadou.
+hint2=Větší háček může pomoci ulovit větší rybu, ale obvykle snižuje počet záběrů.

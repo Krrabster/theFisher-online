@@ -1,0 +1,12 @@
+[BASE]
+image=
+iname=Událost atom
+edtime=10/28/2023 6:53:53
+
+[Q]
+n1=Jsem tu na obchodní misi, kupuji náklad zmutovaného masa.\nPlatím [cost] za jeden náklad a x[acnt] "[atom]" \nLepší nabídku nenajdete!\n____________________________\n Pokud máte [cnt] kusu zboží
+n2=Cena nákladu [cost] a x[acnt] "[atom]" \nPokud máte [cnt] náklad\n------------------------------------\n Takže: [allcost] x[aacnt] "[atom]"
+a1=Prodej produktu
+a2=Odejít
+a3=Prodat vše
+

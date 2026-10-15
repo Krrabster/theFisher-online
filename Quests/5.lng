@@ -1,0 +1,11 @@
+[BASE]
+iname=Arktický polární
+Explorer edtime=12/19/2023 2:53:59
+
+[Q]
+n1=\n Za jeden náklad můžeme nabídnout \n[cost] A x[acnt] "[atom]" \n\n____________________________\n Máte [cnt] kusy zboží
+n2=\n Cena za náklad [cost] a x[acnt] "[atom]" \n Máte [cnt] pieces \n------------------------------------\n Proto: [allcost] x[aacnt] "[atom]"
+a1=Prodej výrobků
+a2=Odejít
+a3=Prodat vše
+

@@ -1,0 +1,22 @@
+﻿[BASE]
+iname=Máový event
+edtime=30.04.2025 10:40:05
+
+[Q]
+//-------- Nodes --------
+n1=V květnu ryba hledá tam, kde je hlubina, a rybář hledá tam, kde jsou ryby.
+n2=0
+n3=Pěkné májové dny!
+n4=Dnes nakoupená měna:\n[count]/[maxcount]
+n5=Plňte denní a pravidelné úkoly a získávejte ceny\n------------------------------\n*Dokončete denní úkoly 3krát\n*Provádění rutinních úkolů 5krát
+//-------- Answers --------
+a1=0
+a2=Odejít
+a3=0
+a4=Vidím.
+a5=Obchod s odměnami
+a6=0
+a7=Jsem správce.!
+a8=Úkol
+a9=Koupit měnu
+a10=Přijmout úkol

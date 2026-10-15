@@ -1,0 +1,17 @@
+[BASE]
+iname=Vánoční stromeček
+edtime=20.12.2025 11:41:49
+
+[Q]
+//-------- Nodes --------
+n1=
+n2=Pravděpodobně je třeba ozdobit vánoční stromeček.\n____________________________________________\nPotřebuješ [ntcnt] ozdoby, máš [utcnt] ozdobu/y.
+n3= Vánoční stromeček je ozdobený
+n4=Vrať se zítra.
+n5=
+//-------- Answers --------
+a1=Odejít
+a2=Pověs ozdoby
+a3=Resetovat fáze
+a4=Vyzvedni si dárek
+a5=Adm

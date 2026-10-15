@@ -1,0 +1,20 @@
+# Lokalizační soubor pro výukový kurz hráče
+
+[GUIDE]
+
+string_startText=Srdečné přivítání od týmu Fisher Online!\nChcete-li rychleji dokončit výukový kurz základních herních mechanismů, postupujte podle pokynů ve vyskakovacím okně.\nOkno nápovědy můžete kdykoli otevřít stisknutím klávesy <color='#FFD700'>[F1]</color> a získat tak přehled o nejdůležitějších ovládacích prvcích.
+string_finishText=Tým Fisher Online vám přeje hodně zábavy při hraní. Petrův zdar!
+string_startButtonText=OK
+string_stayButtonText=Zůstaňte na mapě
+string_skipButtonText=Přeskočit výukový program
+string_0=Klávesami <color='#FFD700'>[WASD]</color> přejděte k vodě. V noci vám může pomoci svítilna (klávesa <color='#FFD700'>[P]</color>).
+string_1=Stisknutím kláves <color='#FFD700'>[1]</color>, <color='#FFD700'>[2]</color> nebo <color='#FFD700'>[3]</color> vezměte rybářský prut do ruky.
+string_2=Pojďme ještě chvíli trénovat! Chyťte další rybu. Chcete-li použít držák prutu, stiskněte klávesu <color='#FFD700'>[Y]</color>.
+string_3=Rybářský prut nahoďte levým tlačítkem myši <color='#FFD700'>[LMB]</color>. Chcete-li použít stojan na prut, stiskněte klávesu <color='#FFD700'>[Y]</color>.
+string_4=Stisknutím klávesy <color='#FFD700'>[ALT]</color> skryjete kurzor myši a přepnete do herního režimu.
+string_5=Počkejte, až ryba zabere. Chcete-li zvětšit nebo zmenšit oblast sledování, stiskněte klávesu <color='#FFD700'>[Z]</color>.
+string_6=Záběr!\nPodržte pravé tlačítko myši <color='#FFD700'>[RMB]</color>, abyste rybu zasekli!
+string_7=Rybu se nepodařilo zaseknout.
+string_8=Držte levé tlačítko myši <color='#FFD700'>[LMB]</color>, abyste rybu přitáhli.
+string_9=Vezměte si rybu, nebo ji pusťte zpět do vody.
+string_10=Chcete-li interagovat s rybářským prutem na stojanu, namiřte pohled na rukojeť prutu a postupujte podle pokynů značky interakce.

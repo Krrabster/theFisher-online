@@ -1,0 +1,18 @@
+[BASE]
+image=
+iname=Oktoberfest
+edtime=20.09.2024 10:43:17
+
+[Q]
+n1=Ahoj [USER], jmenuji se Hans.\nVítejte na našem festivalu.Můžete si u mě koupit vše, co potřebujete k vaření piva..
+n2=Můžete lovit na jakékoli vodní ploše a někdy za ulovené ryby dostanete speciální mince. Tyto mince se mnou můžete vyměnit za suroviny a vařené pivo.!\n\nDalší informace naleznete v deníku
+n3=Hans Happy je zkušený sládek. Vlastní velký pivovar a vždy se považoval za nejlepšího v oboru. Hans se často účastní pivovarnických soutěží a rád se dohaduje, který druh piva je nejlepší.
+n4=V tomto vodním útvaru se vyskytují tyto druhy ryb z této akce:\n\n[FISHES]\nUlovené ryby se zotaví následující den
+a1=Otevřít obchod
+a2=Přečtěte si více o akci
+a5=Co ulovit?
+a7=Adm
+a3=Uvědomil jsem si
+a4=Vezměte si časopis
+a6=Chápu
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<titul_data>
+	<p_categories>
+		<category id="1" name="Dědičné tituly"/>
+	</p_categories>
+	<tituls>
+		<titul id="0" catid="1" name="Bez titulu"/>
+	</tituls>
+</titul_data>

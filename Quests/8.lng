@@ -1,0 +1,17 @@
+[BASE]
+iname=Hannah německo
+edtime=11.08.2024 6:14:25
+
+[Q]
+n1=Vítej, user! \nDnes potřebuji pomoc, mám nápad na nový pokrm z čerstvých ryb... \nMůžete ulovit několik ryb <color='#40C4FF'>[FISHID]</color> pro mě?
+n2=Potřebuji <color='#40C4FF'>[CNT] kusů [FISHID] (velké)</color> \n Skvěle se hodí k mému receptu!\n<color='#C900FF'>(Týdenní)</color>
+n3=- Nejprve splňte mou předchozí žádost
+n4=- Děkuji! To je nejdokonalejší ryba pro můj recept!\nPověst [rep]
+n5=Adm
+a1=Rád vám pomůžu
+a3=--
+a2=Akceptuj
+a6=Adm
+a4=Později
+a5=Požádejte o výhru
+a7=Adm

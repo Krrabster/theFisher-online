@@ -1,0 +1,17 @@
+[BASE]
+
+iname=Podzimní akce
+edtime=08/31/2024 18:48:55
+
+[Q]
+n1=Ahoj [USER], jmenuji se Nicholas. \nHodně jsem cestoval po světě a rozhodl jsem se usadit na pevnině..
+n2=V některých nádržích můžete chytat speciální druhy ryb, které lze vyměnit za žetony událostí..\n\n Více informací si můžete přečíst v časopise
+n3=Kapitán Nicholas je starý mořský vlk, který strávil mnoho let na moři a stal se legendou mezi rybáři. Přijel na podzimní rybářské slavnosti, aby se s mladými rybáři podělil o svá tajemství a zkušenosti.
+n4=V této nádrži žijí tyto druhy živočichů:\n\n[FISHES]\nUlovené ryby budou k dispozici i následující den.
+a1=Otevřít obchod
+a2=Další informace o akci
+a5=Co chytit?
+a7=Adm
+a3=Rozumím
+a4=Vezměte si časopis
+a6=Vyčistit

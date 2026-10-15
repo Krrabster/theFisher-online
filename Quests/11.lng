@@ -1,0 +1,20 @@
+Hier ist die übersetzung des angegebenen textes:
+
+[BASE]
+iname=Atom aktualizován
+edtime=23.10.2024 13:23:24
+
+[Q]
+//-------- Uzel --------
+n1=Alchymisté z bažin jsou svými výrobky známí po celé pustině.\nJejich obchodní emisary najdete všude.
+n2=
+n3=Jsem tu na obchodní misi a nakupuji náklad zmutovaného masa.\nA prodávám různé věci.\nLepší nabídku nenajdete!
+
+//-------- Odpovědi --------
+a1=Prodej zboží
+a2=Odejít
+a3=Prodat vše
+a4=Pochopil
+a5=Otevřít obchod
+a6=Převzít časopis
+a7=Jsem administrátor!

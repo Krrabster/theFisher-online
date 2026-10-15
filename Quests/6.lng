@@ -1,0 +1,18 @@
+[BASE]
+image=
+iname=Пра петрович
+edtime=20.04.2024 18:39:01
+
+[Q]
+n1=- Jestli chceš prozkoumat zásoby ryb na naší základně, musíte ulovit\n<color='#40C4FF'>[FISHID]</color> \n\n\n
+n2=Dokážete chytit <color='#40C4FF'>[CNT]x  [FISHID]</color> ?\nPotřebujeme jen velké zástupce druhu\n<color='#C900FF'>(Týdenní)</color>
+n3=- Splňte mou předchozí žádost
+n4=- Skvělé. Vidím, že máme ještě ryby..\n\n
+n5=Adm
+
+a1=Další
+a3=--
+a2=Přijmout
+a4=Odejít
+a5=Vyzvednutí odměny
+

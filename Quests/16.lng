@@ -1,0 +1,13 @@
+[BASE]
+iname=Polární pilot
+edtime=26.12.2025 14:49:30
+
+[Q]
+//-------- Nodes --------
+n1=Dokázali jste nemožné. Díky vaší vytrvalosti jsou mráz a vánice minulostí. Tito lidé jsou zachráněni a nyní patří čest za jejich záchranu také vám. Přijměte tuto cenu jako symbol odvahy a památku na obyvatele čeljuskina.\nAť zahřeje srdce jako oheň táboráku v polární noci.\nBrzy vzlétneme do nebe, ale zatím se připravte na evakuaci. Domov čeká na své hrdiny.
+n2=Letadla přiletěla!\nPosádka a pasažéři lodě se shromažďují k evakuaci.
+n3=Nenechte se rozptylovat, připravte se na evakuaci.
+//-------- Answers --------
+a1=Vyzvednout odměnu
+a2=...
+a3=Adm

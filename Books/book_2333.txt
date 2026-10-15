@@ -1,0 +1,43 @@
+V tomto článku se podíváme na základní parametry a typy háčků používaných ve hře.
+
+<b>Ostrost</b>
+Prvním a hlavním parametrem je ostrost háčku.
+Ovlivňuje pravděpodobnost samovolného zaseknutí ryby při záběru a také pravděpodobnost, že se ryba při vytahování zasekne.
+Čím vyšší ostrost, tím lepší háček a nižší pravděpodobnost, že se ryba při záběru utrhne.
+
+<b>Samovolné zaseknutí</b>
+Samovolného zaseknutí ryby při záběru. Skvěle funguje s pruty se závažím a při lovu agresivních ryb. Čím vyšší je šance, tím větší je pravděpodobnost, že se ryba sama zasekne, když zkusí vaši nástrahu.
+
+<b>Protihrot</b>
+Sportovní háček, který nemá protihrot, což zabraňuje zranění ryby při záběru. Zpravidla je vždy velká šance, že se ryba na takový háček chytí, lov na takový háček dává více zkušeností.
+[PAGE]
+<b>Velikost háčků</b>
+Hodně záleží na velikosti použitého háčku. Pokud je háček příliš velký, ryba nebude schopna vaši nástrahu spolknout, což snižuje pravděpodobnost záběru malé ryby, pokud je háček příliš malý, pak je menší pravděpodobnost záběru velké ryby.
+Tato tabulka uvádí přibližné velikosti ryb a doporučené velikosti háčků.
+------------------
+Háček №0
+Cílená hmotnost ryby 0.1 až 2 kg
+--------------------
+Háček №1
+Cílená hmotnost ryby 1 až 10 kg
+--------------------
+Háček №2
+Cílená hmotnost ryby 5 až 30 kg
+--------------------
+Háček №3
+Cílená hmotnost ryby 15 až 70 kg
+--------------------
+Háček №4
+Cílená hmotnost ryby 35 až 120 kg
+--------------------
+Háček №5
+Cílená hmotnost ryby 50 až 400 kg
+
+[PAGE]
+<b>Offset</b>
+Jedná se o samostatnou třídu háčků určenou pro lov na přívlač s použitím silikonových nástrah se závažím. Obecně má stejné parametry jako ostatní háčky, jen o něco větší velikost.
+Je třeba mít na paměti, že tlama dravých ryb je v průměru větší než tlama býložravých ryb, takže výše uvedené parametry pro velikost ryb jsou vyšší.
+
+<b>Jig hlavy</b>
+Jsou téměř stejné jako offsetové háčky, ale mají vlastní závaží. Jigové hlavičky se silikonovou nástrahou už s zpravidla nepotřebují dálší závaží, protože to ovlivňuje jejich vedení.
+Velikost ryby podle velikosti háčků je totožná jako u standartních háčků uvedených výše.

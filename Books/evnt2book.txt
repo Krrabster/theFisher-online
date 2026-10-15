@@ -1,0 +1,64 @@
+<b>Šťastný nový rok!</b>
+
+Sever vítá nový rok! Pomozte polární expedici prožít svátky v ledu – plňte úkoly, sbírejte ledové kry, zdobte novoroční stromeček a získejte dárky!
+
+
+<b>Čas a místo konání</b>
+
+◆ Akce se koná na speciálním místě záchrana „čeluskina“.
+
+◆ Místo je dostupné od 1. Úrovně pouze po dobu konání akce.
+
+◆ Akce končí 8. Ledna (pravidelný restart serveru v 4:00 msk).
+
+
+
+<b>Cíle</b>
+
+◆ Sbírat ledové kry, vyrábět ozdoby na stromeček a zdobit stromeček.
+
+◆ Vytvářet arktické náklady a odevzdávat je NPC „polárník“ za reputaci.
+
+
+
+[PAGE]<b>OMEZENÍ</b>
+
+◆ Denně lze odevzdat až 15 arktických nákladů.
+
+◆ Stromeček se zdobí po 1 stupni denně (pokud jeden den vynecháte, můžete stupeň dohnat).
+
+
+
+<b>Tipy</b>
+
+◆ Za splnění denních úkolů dostanete kostky ledu.
+
+◆ Ozdoby na vánoční stromeček jsou vyráběny z ledových ker na speciálním pracovním stole v místě konání akce.
+
+◆ Každá fáze zdobení stromečku přináší dárek.
+
+◆ Po kompletním ozdobení bude stromeček vydávat dárek každý den až do konce akce.
+
+◆ Rybu lze rozporcovat na arktické filety na stejném pracovním stole v místě konání akce.
+
+◆ Arktické filety se používají k výrobě arktického nákladu.
+
+◆ Arktický náklad přijímá NPC „polárník“ – za každý náklad se uděluje reputace.
+
+◆ Veškerou získanou reputaci lze utratit v novoročním obchodě.
+
+◆ Novoroční obchod je k dispozici pouze během události a pouze na místě konání události.
+
+◆ Od 1. Ledna do konce události bude k dispozici řetězec úkolů s odměnami za každou etapu.
+
+
+[PAGE]
+<b>Unikátní předměty</b>
+
+◆ Skin na židli „ledový“
+
+◆ Skin na židli „novoroční“
+
+◆ Booster s novými kartami
+
+◆ Arktická rybí polévka

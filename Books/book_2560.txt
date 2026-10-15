@@ -1,0 +1,37 @@
+**Vítejte v pustině!
+
+Prozkoumávejte oblast, hledejte zdroje, sbírejte maso ze zajatých mutantů a získávejte zasloužené odměny.
+
+**Čas a místo konání**
+
+◆ Akce končí v pondělí 4. Listopadu (restart serveru).
+
+◆ Událost se bude konat na speciálním místě: atom: ödland - dostupná od úrovně 0
+
+◆ Lokace pustina je přístupná pouze během akce
+
+**Cíle**
+
+◆ Cílem je chytat mutanty, plnit úkoly a vytvářet náklad.
+
+◆ Hotový náklad lze doručit NPC „obchodník z bažin“ a získat odměnu
+
+◆ V obchodě NPC „obchodník z bažin“ vyměňte atomové žetony za jedinečné ceny a dárky.
+
+**Limity**
+
+◆ Denně lze doručit maximálně 10 nákladních zásilek.
+
+**Tipy**
+
+◆ Maso mutantů lze získat porcováním ryb na porcovacím stole ve výběhu. Stisknutím tlačítka „c“ otevřete ohradu.
+
+◆ Náklad lze vytvořit pomocí speciálního řemeslného stroje vedle NPC „obchodník z bažin“.
+
+◆ Ceny získané od NPC „obchodník z bažin“ jsou automaticky vázány na hráčský účet a nelze je předat dál
+
+◆ Suroviny z pustiny lze nalézt ve městě a na březích vody
+
+◆ V hromadách odpadků lze nalézt užitečné předměty, které mohou být užitečné v případě akce
+
+◆ Ceny jsou k dispozici také ve VIP obchodě. Tyto ceny lze darovat kamarádovi nebo prodat v aukčním domě

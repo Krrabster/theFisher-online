@@ -1,0 +1,16 @@
+[BASE]
+image=
+iname=Český děda
+edtime=09.08.2023 6:36:53
+
+[Q]
+
+n1=- Včera jsem se pohádal s kamarádem oldou. Řekl mi, že se tady teď nedá chytit\n<color='#40C4FF'>[FISHID]</color>\n A já říkám, že to možné je!\n\n
+n2=Dokážeš chytit <color='#40C4FF'>х[CNT] [FISHID]</color> ?\n Chci mu dokázat, že ta ryba tady pořád je, proto potřebujem nachytat větší!\n<color='#C900FF'>(Týdenní)</color>
+n3=- Nejdříve splň můj předchozí požadavek
+n4=- Teď už se z toho olda nevykroutí!\n- (Napije se piva) nazdraví!\n
+a1=Další
+a3=--
+a2=Přijmout
+a4=Odejít
+a5=Vyzvednout odměnu

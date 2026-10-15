@@ -1,0 +1,14 @@
+﻿[BASE]
+iname=Zlatá horečka
+edtime=30.11.2024 17:34:24
+
+[Q]
+//-------- Nodes --------
+n1=Jak víte, ve zlatém dole nevydělává nejvíce ten, kdo hledá zlato, ale ten, kdo prodává krumpáče.
+n3=Obchodní zásobovací mise!
+//-------- Answers --------
+a2=Odejít
+a4=Chápu
+a5=Otevřený obchod
+a7=Já jsem správce!
+a8=Hutě
