@@ -1,16 +1,25 @@
-# Čeština a textury do hry theFisher online
+# Čeština pro theFisher Online
 
-Česká lokalizace pro hru theFisher Online.
+Česká lokalizace hry **theFisher Online** distribuovaná jako Steam Workshop mod.
 
-## Obsah
+- **Workshop ID:** `3016425373`
+- **Jazyk:** čeština (`CS`, UTF-8)
+- **Autor uvedený v metadatech:** `*Krrab*`
 
-Projekt obsahuje překlady rozhraní, předmětů, knih a úkolů, metadata lokalizace a modu, obrázky modu a české zvukové hlášky.
+## Obsah projektu
+
+- Překlady herního rozhraní, předmětů, ryb, úkolů, knih a nápovědy.
+- Lokalizační a modifikační metadata.
+- Obrázky modu a zvukové soubory používané ve hře.
 
 ## Instalace
 
-Soubory této složky patří do modu Steam Workshop s ID `3016425373`. Ve hře je lokalizace označena jako čeština (`CS`).
+Mod lze nainstalovat přes [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3016425373). Po přihlášení k odběru se lokalizace spravuje ve hře jako Workshop obsah.
 
-## Metadata
+## Struktura
 
-- Verze hry uvedená v metadatech: `v 1.32.2`
-- Autor uvedený v metadatech modu: `*Krrab*`
+- `WpnLang.xml`, `InterfaceLang.txt`, `fishLang.txt` a další soubory v kořeni obsahují lokalizační data.
+- `Books/` obsahuje texty knih.
+- `Quests/` obsahuje texty úkolů.
+- `Sound/` obsahuje zvukové soubory.
+- `image.jpg` a `imageIcon.jpg` jsou obrázky modu.
