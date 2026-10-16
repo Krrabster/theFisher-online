@@ -593,11 +593,11 @@ gi_um_13=Přístaviště
 boat_inf9=Veslování [J]\nNah./dol. Kotva [K]
 --------------------
 
-dntpck_144_name=Balíček "atomppl"
+dntpck_144_name=Balíček "Atomppl"
 dntpck_144_info=Sada obsahuje boloňský prut na 22 kg v atomovém provedení. Neotevřenou sadu lze předat příteli..
 
 
-dntpck_148_name=Balíček "atomds"
+dntpck_148_name=Balíček "Atomds"
 dntpck_148_info=Sada obsahuje 22 kg feederový prut v atomovém provedení. Neotevřenou sadu lze předat kamarádovi.
 
 --------------------
@@ -669,7 +669,7 @@ fl_silver_hint=Úkol pro stříbrnou medaili základny
 --------------------
 
 wpn_bait_sz3=Velký
-pckjname=Kit "jerkpredator"
+pckjname=Kit "Jerkpredator"
 pckjinfo=Sada obsahuje jerkový prut (30 kg 2,2 m test 35-60), naviják, vlasec a tři jerk nástrahy. Sestava poskytuje +10 % k získaným zkušenostem a zvyšuje dosah a přesnost nahazování těžkých jerkových nástrah.
 
 --------------------
@@ -714,7 +714,7 @@ wpn_towh=Do skladu
 active_obj_11=Sklad
 --------------------
 
-dntpck_5a_name=Sada "svítící plováky"
+dntpck_5a_name=Sada "Svítící Plováky"
 dntpck_5a_info=Sada obsahuje tři svítící plováky 10-8 různých barev (červená, modrá, zelená).
 wptype_drybrd=Suché těsto
 inf_aroma=Pach:
@@ -791,10 +791,10 @@ setng_lb9=Zorné pole
 
 --------------------
 
-dntpck_6_name=Balíček "salamo gold"
+dntpck_6_name=Balíček "Salamo Gold"
 dntpck_6_info=Sada obsahuje prut na lov při dně (43 kg / 4 m / test 50–110), naviják, vlasec a košík na krmení ze sady salamo carphunter gold.
 
-dntpck_5_name=Balíček "světelné plováky"
+dntpck_5_name=Balíček "Světelné Plováky"
 dntpck_5_info=Sada obsahuje tři svítící plováky 20-12 různých barev (červená, modrá, zelená).
 
 sh_pay_day_90=90 Dní
@@ -823,7 +823,7 @@ key_chclub=Klubový chat
 key_chturn=Turnajový chat
 --------------------
 
-dntpck_4_name=Balíček "bombard gold"
+dntpck_4_name=Balíček "Bombard Gold"
 dntpck_4_info=Sada obsahuje prut na plavanou (43 kg), naviják, vlasec a splávek ze sady bombard gold s výstražným světlem. Sada je určená k lovu velkých kaprů nebo tolstolobiků.
 
 --------------------
@@ -920,7 +920,7 @@ act_inf5e=[E] Sebrat
 
 //---------------------
 craftwp_btn=<color='#FF0000'>Řemeslný stůl</color>
-dntpck_3_name=Balíček "bee picker"
+dntpck_3_name=Balíček "Bee Picker"
 dntpck_3_info=Balíček obsahuje lehký picker (6 kg prut, + 50 % k získaným zkušenostem), naviják a vlasec. Neotevřenou sadu lze darovat další osobě.
 wpn_ibsize_4=Háček (№3-5)
 //---------------------
@@ -1042,7 +1042,7 @@ club_levup=Klubová úroveň na {0}
 club_expadd=Klub +{0} zk
 qd_clname=Klub
 
-dntpck_130_name=Balíček "zakladatel"
+dntpck_130_name=Balíček "Zakladatel"
 dntpck_130_info=Obsahuje odznak "zakladatel klubu", pomocí kterého můžete založit vlastní rybářský klub.
 dntpck_130_act=+ 15Denní VIP karta jako dárek
 
@@ -1073,11 +1073,11 @@ club_err4=Jméno nebo značka již existuje
 
 btn_qtaskvip=Základny
 
-dntpck_2_name=Balíček "seacast"
+dntpck_2_name=Balíček "Seacast"
 dntpck_2_info=Sada obsahuje těžký castingový prut (52 kg, test 30–90 g), multiplikační naviják, vlasec a 500 ks stříbra.
 
 dntpck_1_hint=* Cena pro váš region se může lišit.
-dntpck_1_name=Balíček "beecast"
+dntpck_1_name=Balíček "Beecast"
 dntpck_1_info=Sada obsahuje lehký castingový prut (5 kg, +75 % zkušeností), nízkoprofilový naviják, vlasec a náhodnou sadu UL nástrah (3 ks).
 
 

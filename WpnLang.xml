@@ -405,7 +405,7 @@
 <info>Není to nejsilnější sonar, ukazuje hloubku až 1,2 metru.</info>
 </weapon>
 <weapon id="1024">
-<name>Vezírek "kido"</name>
+<name>Vezírek "Kido"</name>
 <info>
 </info>
 </weapon>
@@ -568,7 +568,7 @@
 </info>
 </weapon>
 <weapon id="1059">
-<name>Kepi "luzhok"</name>
+<name>Kepi "Luzhok"</name>
 <info>
 </info>
 </weapon>
@@ -1290,7 +1290,7 @@
 </info>
 </weapon>
 <weapon id="1204">
-<name>Vezírek "avoska"</name>
+<name>Vezírek "Avoska"</name>
 <info>
 </info>
 </weapon>
@@ -1592,7 +1592,7 @@ Pro Aktivaci Stiskněte Pravé Tlačítko Myši Na Položce A Vyberte "Použít"
 </info>
 </weapon>
 <weapon id="1264">
-<name>Kartička  "výcvik +50%"</name>
+<name>Kartička  "Výcvik +50%"</name>
 <info>Naučte Se +50 % Aktivního Efektu Karty.
       Dává Bonus Ke Zkušenostem Získaným Za Rybaření Po Dobu 2 Hodin.
       Pro Aktivaci Klikněte Pravým Tlačítkem Myši Na Předmět A Vyberte Možnost "Použít".</info>
@@ -1603,7 +1603,7 @@ Pro Aktivaci Stiskněte Pravé Tlačítko Myši Na Položce A Vyberte "Použít"
 </info>
 </weapon>
 <weapon id="1266">
-<name>Karta "zimní"</name>
+<name>Karta "Zimní"</name>
 <info>
 </info>
 </weapon>
@@ -2504,15 +2504,15 @@ Nesvítí. Velká Velikost.</info>
 <info>Extrémně silný a extrémně ostrý kovaný háček. Kované háčky carppro mají přesný navrženy tvar tak, aby se hluboko zasekl a minimalizoval ztrátu ryb. Klasický tvar tuna v kombinaci s extrémně silným a krátkým ramenem zajišťuje odolnost i při násilném zdolávání velkých ryb. Doporučuje se také pro mořský rybolov.</info>
 </weapon>
 <weapon id="1454">
-<name>Atraktant "kapr"</name>
+<name>Atraktant "Kapr"</name>
 <info> Speciálně vytvořeno pro zvýšení zájmu všech kaprovitých ryb . </info>
 </weapon>
 <weapon id="1455">
-<name>Atraktant "lín-karas"</name>
+<name>Atraktant "Lín-Karas"</name>
 <info>Speciálně vytvořeno pro zvýšení zájmu línů a karasů. </info>
 </weapon>
 <weapon id="1456">
-<name>Atraktant "cejn"</name>
+<name>Atraktant "Cejn"</name>
 <info>Speciálně vytvořeno pro zvýšení zájmu cejnů. </info>
 </weapon>
 <weapon id="1457">
@@ -2520,16 +2520,16 @@ Nesvítí. Velká Velikost.</info>
 <info>Krmivo vytvořené podle vlastního receptu</info>
 </weapon>
 <weapon id="1458">
-<name>Atraktant "kapr"</name>
+<name>Atraktant "Kapr"</name>
 <info>Rybářské krmné směsi vyrobené z přírodních vybraných surovin zajišťují účinnost při všech druzích rybolovu. Aromatické urychlovače použité v krmivu jsou ideální pro všechny kapry</info>
 </weapon>
 <weapon id="1459">
-<name>Atraktant "směsi krmiv"</name>
+<name>Atraktant "Směsi Krmiv"</name>
 <info>
 </info>
 </weapon>
 <weapon id="1460">
-<name>Atraktant "pro cejny"</name>
+<name>Atraktant "Pro Cejny"</name>
 <info>Hotový atraktant pro cejny</info>
 </weapon>
 <weapon id="1461">
@@ -2660,7 +2660,7 @@ Nesvítí. Velká Velikost.</info>
 <info>Imitace mouchy pletené z barevných nití. Tato moucha se nazývá „mokrá“, protože je těžší než voda a potápí se</info>
 </weapon>
 <weapon id="1490">
-<name>Atraktant "univerzální"</name>
+<name>Atraktant "Univerzální"</name>
 <info>Hotová suchá směs. Abyste ji mohli používat, musíte ji smíchat s vodou.</info>
 </weapon>
 <weapon id="1491">
@@ -2872,7 +2872,7 @@ Nesvítí. Velká Velikost.</info>
 </info>
 </weapon>
 <weapon id="1532">
-<name>Popper "frog-iii-м5"</name>
+<name>Popper "Frog-III-М5"</name>
 <info>Unikátní návnada, která ukazuje své silné stránky v mělké vodě a silném proudu. Popper "frog-iii-м5 lze vést velmi pomalu a krátké škubnutí prutem vytvoří charakteristické, svůdné zvuky. Perfektní návnada na léto, kdy se dravci aktivně krmí na hladině. Silný dvojitý hák objímá tělo a umožňuje jeho vedení místy kdese nachází porost.</info>
 </weapon>
 <weapon id="1533">
@@ -3109,59 +3109,59 @@ Nesvítí. Velká Velikost.</info>
 </info>
 </weapon>
 <weapon id="1582">
-<name>Boilies "kukuřice"</name>
+<name>Boilies "Kukuřice"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1583">
-<name>Boilies "citrus"</name>
+<name>Boilies "Citrus"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1584">
-<name>Boilies "krém"</name>
+<name>Boilies "Krém"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1585">
-<name>Boilies "karamel"</name>
+<name>Boilies "Karamel"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1586">
-<name>Boilies "kurkuma"</name>
+<name>Boilies "Kurkuma"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1587">
-<name>Boilies "tigří ořech"</name>
+<name>Boilies "Tigří Ořech"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1588">
-<name>Boilies "tráva"</name>
+<name>Boilies "Tráva"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1589">
-<name>Boilies "zelí"</name>
+<name>Boilies "Zelí"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1590">
-<name>Boilies "peprmint"</name>
+<name>Boilies "Peprmint"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1591">
-<name>Boilies "jahoda"</name>
+<name>Boilies "Jahoda"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1592">
-<name>Boilies "ovoce"</name>
+<name>Boilies "Ovoce"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1593">
-<name>Boilies "krab"</name>
+<name>Boilies "Krab"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1594">
-<name>Boilies "ústřice"</name>
+<name>Boilies "Ústřice"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1595">
-<name>Boilies "sýr"</name>
+<name>Boilies "Sýr"</name>
 <info>Navzdory skutečnosti, že proteinové kuličky vyrábí mnoho výrobců v různých velikostech, barvách a příchutích, mají velmi podobné složení. K jejich výrobě se používají vysoce kvalitní bílkoviny, proteinové směsi, sacharidy, tuky, minerály a vitamíny.</info>
 </weapon>
 <weapon id="1596">
@@ -3294,7 +3294,7 @@ Nesvítí. Velká Velikost.</info>
 <info>Kaprové pruty jsou nejčastěji vyráběny z uhlíkových vláken. To je způsobeno skutečností, že tento materiál zaručuje enormní pevnost při relativně nízké hmotnosti. Na trhu najdete také tyče ze skleněných vláken, které jsou levnější variantou, ale také méně odolné.</info>
 </weapon>
 <weapon id="1628">
-<name>Série "sazan"</name>
+<name>Série "Sazan"</name>
 <info>Kaprové pruty jsou nejčastěji vyráběny z uhlíkových vláken. To je způsobeno skutečností, že tento materiál zaručuje enormní pevnost při relativně nízké hmotnosti. Na trhu najdete také tyče ze skleněných vláken, které jsou levnější variantou, ale také méně odolné.</info>
 </weapon>
 <weapon id="1629">
@@ -3314,7 +3314,7 @@ Nesvítí. Velká Velikost.</info>
 <info>Model waggler je splávek pro začínající rybáře. Tento druh splávku se používá hlavně ve stojatých vodách nebo na řekách se slabým proudem. Série wagglernight jsou in-line splávky určené pro lov kaprových ryb jako jsou cejni. Jsou extrémně citlivé, určené pro noční rybolov díky svítící špičce.</info>
 </weapon>
 <weapon id="1633">
-<name>Sf "šťastný rybolov"</name>
+<name>Sf "Šťastný Rybolov"</name>
 <info>Směs byla vyvinuta pro celoroční rybolov. Její složení zahrnuje speciálně vybrané ingredience, díky kterým ryby nemůžou odolat a v místě náhozu se nějaký čas zdržují. Univerzálnost této směsy zaručuje lov okounů, bolenů, karasů, jelců, cejnů, lipanů, pstruhů, perlínů, candátů a mnoho jiných.</info>
 </weapon>
 <weapon id="1634">
@@ -3570,7 +3570,7 @@ Speciální Velká Návnada Určená K Trollování
 Hlavní Cíl - Candát, Sumec, Štika</info>
 </weapon>
 <weapon id="1694">
-<name>Boilies "mandarinka"</name>
+<name>Boilies "Mandarinka"</name>
 <info>Mandarinková vůně - novoroční vůně</info>
 </weapon>
 <weapon id="1695">
@@ -3888,7 +3888,7 @@ Pouze LP Navijáky Velikosti 2000 Nebo Menší</info>
 <info>Speciální návnada pro noční lov chobotnic. Nezapomeňte pomocí baterky osvítit místo rybolovu</info>
 </weapon>
 <weapon id="1769">
-<name>Atraktant "korýši"</name>
+<name>Atraktant "Korýši"</name>
 <info>Směs korýšů navržena k chytání mořských ryb, krevet, chobotnic.</info>
 </weapon>
 <weapon id="1770">
@@ -4658,15 +4658,15 @@ Velmi Drahý, Ale Velice Efektivní. S Tímto Prostorem Pro Své Úlovky Se Bude
 <info>Rybářský vlasec s omezenou délkou pro biče.</info>
 </weapon>
 <weapon id="1953">
-<name>Těsto "fast attack č. 1"</name>
+<name>Těsto "Fast Attack Č. 1"</name>
 <info>Suchá směs pro přípravu těsta herabuna "fast attack č. 1". Skládá se z různých složek obilí, bílkovin rostlinného a živočišného původu a částic sušených měkkýšů.</info>
 </weapon>
 <weapon id="1954">
-<name>Těsto "quick attack č. 2"</name>
+<name>Těsto "Quick Attack Č. 2"</name>
 <info>Suchá směs pro přípravu těsta herabuna "fast attack č. 2". Skládá se z různých složek obilí, bílkovin rostlinného a živočišného původu a částic sušených měkkýšů.</info>
 </weapon>
 <weapon id="1955">
-<name>Těsto "blue carp č. 3"</name>
+<name>Těsto "Blue Carp Č. 3"</name>
 <info>Suchá směs pro přípravu těsta herabuna "blue carp č. 3". Hlavní složkou této směsi jsou bramborové vločky sladké příchutě.</info>
 </weapon>
 <weapon id="1956">
@@ -4812,11 +4812,11 @@ Velmi Drahý, Ale Velice Efektivní. S Tímto Prostorem Pro Své Úlovky Se Bude
 <info>Bič který je navržen pro lov kaprů.</info>
 </weapon>
 <weapon id="1990">
-<name>Atraktant "jeseter"</name>
+<name>Atraktant "Jeseter"</name>
 <info>Navrženo k chytání jeseterů. Složení - obiloviny, rybí moučka, korýši a uzené maso.</info>
 </weapon>
 <weapon id="1991">
-<name>Atraktant "ouklej"</name>
+<name>Atraktant "Ouklej"</name>
 <info>Navrženo k chytání malých bílých ryb jako je ouklej, ostrucha a jiných podobných druhů.</info>
 </weapon>
 <weapon id="1043">
@@ -4840,11 +4840,11 @@ Velmi Drahý, Ale Velice Efektivní. S Tímto Prostorem Pro Své Úlovky Se Bude
 <info>Blue carp těsto ochucené dipem.</info>
 </weapon>
 <weapon id= "1994">
-<name>Recept "král ovádů" </name>
+<name>Recept "Král Ovádů" </name>
 <info>Recept na vytvoření realisticky vypadajícího ováda hovězího.</info>
 </weapon>
 <weapon id= "1995">
-<name>Recept "pstruhový bolognese" </name>
+<name>Recept "Pstruhový Bolognese" </name>
 <info>Recept na výrobu bolognese prutu.</info>
 </weapon>
 <weapon id="1996">
@@ -4902,19 +4902,19 @@ Velmi Drahý, Ale Velice Efektivní. S Tímto Prostorem Pro Své Úlovky Se Bude
 <info>Hotové kuličky krmné směsi. </info>
 </weapon>
 <weapon id="2009">
-<name>Sf "kapr"</name>
+<name>Sf "Kapr"</name>
 <info>Vyrobeno pro lov všech druhů kaprů. </info>
 </weapon>
 <weapon id="2010">
-<name>Sf "amur - tolstolobik"</name>
+<name>Sf "Amur - Tolstolobik"</name>
 <info>Vyrobeno pro lov amurů, tolstolobiků a tolstolobolců. </info>
 </weapon>
 <weapon id="2011">
-<name>Sf "mořský - cípal"</name>
+<name>Sf "Mořský - Cípal"</name>
 <info>Vyrobeno pro lov všech druhů cípalů.</info>
 </weapon>
 <weapon id="2012">
-<name>Krmivo "mořský predátor"</name>
+<name>Krmivo "Mořský Predátor"</name>
 <info>Vyrobeno pro lov mořských predátorů(žralok, tuňák, platýs).</info>
 </weapon>
 <weapon id="2013">
@@ -5740,7 +5740,7 @@ Olej Z Kalmarů Má Sytou Vůni, Která Je Ideální Pro Většinu Druhů Sladko
 <info>Sada obsahuje muškařský prut goldstick 3,5m dlouhý o maximální zátěži 20 kg +15% bonus ke zkušenostem.</info>
 </weapon>
 <weapon id="2207">
-<name>Krmivo "konfety"</name>
+<name>Krmivo "Konfety"</name>
 <info>Potěšte kapra jasnými barvami vánočních svátků. Určeno pro lov velkých kaprů a dalších bílých ryb.</info>
 </weapon>
 <weapon id="2208">
@@ -5788,15 +5788,15 @@ Olej Z Kalmarů Má Sytou Vůni, Která Je Ideální Pro Většinu Druhů Sladko
 <info>Kwa-a-a-k!</info>
 </weapon>
 <weapon id="2219">
-<name>Popper "žába-iii-M1"</name>
+<name>Popper "Žába-III-M1"</name>
 <info>Speciální wobler ve tvaru žáby určený pro hladinový rybolov. Cílové ryby - štika, okoun, sumec.</info>
 </weapon>
 <weapon id="2220">
-<name>Popper "žába-iii-M2"</name>
+<name>Popper "Žába-III-M2"</name>
 <info>Speciální wobler ve tvaru žáby určený pro hladinový rybolov. Cílové ryby - štika, okoun, sumec.</info>
 </weapon>
 <weapon id="2221">
-<name>Popper "žába-iii-M3"</name>
+<name>Popper "Žába-III-M3"</name>
 <info>Speciální wobler ve tvaru žáby určený pro hladinový rybolov. Cílové ryby - štika, okoun, sumec.</info>
 </weapon>
 <weapon id="2222">
@@ -5808,7 +5808,7 @@ Olej Z Kalmarů Má Sytou Vůni, Která Je Ideální Pro Většinu Druhů Sladko
 <info>Národní jídlo české a slovenské kuchyně.</info>
 </weapon>
 <weapon id="2224">
-<name>Pivo "prušovice"</name>
+<name>Pivo "Prušovice"</name>
 <info>Prušovice - jedna z nejznámějších značek českého piva, která se těší zasloužené oblibě po celém světě.</info>
 </weapon>
 <weapon id="2225">
@@ -6211,19 +6211,19 @@ X5 Vitamínový Koktejl</info>
 <info>Album pro ukládání sběratelských karet</info>
 </weapon>
 <weapon id="2312">
-<name>Boilies s "karas"</name>
+<name>Boilies s "Karas"</name>
 <info>Speciální výherní boilies určený k lovu velkých karasů</info>
 </weapon>
 <weapon id="2313">
-<name>Vib s "štika" 28g</name>
+<name>Vib s "Štika" 28g</name>
 <info>Ceněná štiková rotačka určená k lovu štik v hloubce - velikost 3</info>
 </weapon>
 <weapon id="2314">
-<name>Wb s "pstruh"</name>
+<name>Wb s "Pstruh"</name>
 <info>Ceněný wolly bugger určený k lovu velkých pstruhů</info>
 </weapon>
 <weapon id="2315">
-<name>Spnr s "okoun"</name>
+<name>Spnr s "Okoun"</name>
 <info>Unikátní rotačka pro lov okounů</info>
 </weapon>
 <weapon id="2316">
@@ -6231,7 +6231,7 @@ X5 Vitamínový Koktejl</info>
 <info>Živý malý hlavačkovec, vynikající návnada pro kaspické ryby</info>
 </weapon>
 <weapon id="2317">
-<name>Recept "hlavačkovec-návnada"</name>
+<name>Recept "Hlavačkovec-Návnada"</name>
 <info>Unikátní recept na vytvoření živé návnady z hlaváčkovce. Vhodný je jakýkoli do 80 gramů.</info>
 </weapon>
 <weapon id="2318">
@@ -6267,7 +6267,7 @@ X5 Vitamínový Koktejl</info>
 <info>Jedinečný recept na vytvoření návnady do pasti na hmyz.</info>
 </weapon>
 <weapon id="2326">
-<name>"Zkušební nahození" recept</name>
+<name>"Zkušební Nahození" recept</name>
 <info>Jedinečný recept na past na raky, který vám umožní rychle zkontrolovat množství úlovků.</info>
 </weapon>
 <weapon id="2327">
@@ -6376,7 +6376,7 @@ Chcete-Li Si Přečíst Příručku, Otevřete Ji.</info>
 <info>Dobrý základ pro přikrmování síhů a kaprů.</info>
 </weapon>
 <weapon id="2346">
-<name>Atraktant "síh"</name>
+<name>Atraktant "Síh"</name>
 <info>Určeno ke zvýšení záběrů síhů a dalších bílých ryb.</info>
 </weapon>
 <weapon id="2347">
@@ -6606,7 +6606,7 @@ Bude Chutnat Jelcům, Cejnům A Dalším Rybám.</info>
 <info>Přechodná forma larvy, kukly mouchy. Vynikající nástraha pro lov cejnů, velkých plotic a dalších bílých ryb.</info>
 </weapon>
 <weapon id="2394">
-<name>Recept "kukla"</name>
+<name>Recept "Kukla"</name>
 <info>Unikátní recept na kompostér pro výrobu larev</info>
 </weapon>
 <weapon id="2395">
@@ -6913,7 +6913,7 @@ Speciální Série</info>
 <info>Pilkry sf jsou určeny pro vertikální pilkerování ve středních vodách v relativně malých hloubkách. Napodobují chování olihní.</info>
 </weapon>
 <weapon id="2462">
-<name>Груз "sumec"</name>
+<name>Груз "Sumec"</name>
 <info>Speciální vybavení pro lov sumců</info>
 </weapon>
 <weapon id="2463">
@@ -7078,20 +7078,20 @@ Je Vyžadován K Vylepšení Některých Předmětů Z Darovacího Obchodu. </in
 <info>Obaly pro výrobu maloobchodních balení</info>
 </weapon>
 <weapon id="2495">
-<name>Recept "náklad filet"</name>
+<name>Recept "Náklad Filet"</name>
 <info>Recept Na Výrobu Komerčního Nákladu Rybích Filetů. Je Nutný Balicí Stůl.
 Kontrola Po Přijetí.</info>
 </weapon>
 <weapon id="2496">
-<name>Recept "náklad drahých filet"</name>
+<name>Recept "Náklad Drahých Filet"</name>
 <info>Recept na vytvoření obchodního nákladu z drahých rybích filetů. Je nutný balicí stůl. Výuka při převzetí.</info>
 </weapon>
 <weapon id="2497">
-<name>Recept "náklad cenných filet"</name>
+<name>Recept "Náklad Cenných Filet"</name>
 <info>Recept na vytvoření obchodního nákladu z cenných rybích filetů. Je nutný balicí stůl. Výuka po obdržení.</info>
 </weapon>
 <weapon id="2498">
-<name>Recept "náklad mořských filet"</name>
+<name>Recept "Náklad Mořských Filet"</name>
 <info>Recept na přípravu obchodního nákladu z mořských rybích filetů. Je nutný balicí stůl. Vypracování po obdržení</info>
 </weapon>
 <weapon id="2499">
@@ -7110,15 +7110,15 @@ Požadovaný Balicí Stůl.</info>
 <info>Recept na výrobu pasti na vosy</info>
 </weapon>
 <weapon id="2502">
-<name>Recept "kompostér"</name>
+<name>Recept "Kompostér"</name>
 <info>Recept na výrobu kompostéru</info>
 </weapon>
 <weapon id="2503">
-<name>Recept "past na raky"</name>
+<name>Recept "Past Na Raky"</name>
 <info>Recept na výrobu pasti na raky</info>
 </weapon>
 <weapon id="2504">
-<name>Recept "hrnec"</name>
+<name>Recept "Hrnec"</name>
 <info>Recept na výrobu kempinkového kotlíku</info>
 </weapon>
 <weapon id="2505">
@@ -8484,7 +8484,7 @@ Používá Se K Lovu Velkých Candátů A Štik. </info>
 <info>Silikonová návnada. Vyrobená z vysoce kvalitního silikonu. Vhodná k lovu většiny druhů dravých ryb.</info>
 </weapon>
 <weapon id="2771">
-<name>"Podzimní list"</name>
+<name>"Podzimní List"</name>
 <info>Prémiová Sada Rotačních Třpytek Jedinečného Designu Pro Profesionální Rybolov Zaměřený Na Lov Pstruhů, Okounů A Candátů.
 Obsahuje:
 Х1 Savage TBA Lime
@@ -8529,7 +8529,7 @@ Není Určen K Prodeji V Aukci.</info>
 </info>
 </weapon>
 <weapon id="2780">
-<name>"Podzimní list" g</name>
+<name>"Podzimní List" g</name>
 <info>Prémiová Sada Rotačních Třpytek Jedinečného Designu Pro Profesionální Rybolov Zaměřený Na Lov Pstruhů, Okounů A Candátů.
 Obsahuje:
 Х1 Savage TBA Lime
@@ -8709,7 +8709,7 @@ Stejně Příjemné A Povzbuzující Jako Ulovení Zlatého Amura.</info>
 Silné Pivo S Charakterem Zkušeného Rybáře A Lovce.</info>
 </weapon>
 <weapon id="2812">
-<name>Sada "swimmer kf"</name>
+<name>Sada "Swimmer Kf"</name>
 <info>JEDNA NA VÝBĚR
 Jedna Ze Tří Povrchových Nástrah Ve Tvaru Kachny. Používá Se Na Zarostlých Vodních Plochách A Otevřených Vodních Plochách. Skvěle Se Hodí K Lovu Velkých Štik, Okounů A Candátů.
 Obsahuje Jeden Výběr:
@@ -8720,7 +8720,7 @@ Osobní Předmět.
 Není Určeno K Prodeji V Aukci..</info>
 </weapon>
 <weapon id="2813">
-<name>Sada "swimmer kf" д</name>
+<name>Sada "Swimmer Kf" д</name>
 <info>Jedna Ze Tří Povrchových Nástrah Ve Tvaru Kachny. Používá Se Na Zarostlých Vodních Plochách A Otevřených Vodních Plochách. Skvěle Se Hodí K Lovu Velkých Štik, Okounů A Candátů.
 Obsahuje:
 Х1 Swimmer KF D1
@@ -8730,7 +8730,7 @@ Převáděná Věc.
 Není Určeno K Prodeji V Aukci.</info>
 </weapon>
 <weapon id="2814">
-<name>Sada "crestline expert"</name>
+<name>Sada "Crestline Expert"</name>
 <info>Sada Obsahuje Prut A Pevný Naviják Od Výrobce Mcnaller.
 Obsahuje:
 Х1 Crestline TH - Expert
@@ -8739,7 +8739,7 @@ Osobní Předmět.
 Není Určeno K Prodeji V Aukci..</info>
 </weapon>
 <weapon id="2816">
-<name>Sada "crestline expert" d</name>
+<name>Sada "Crestline Expert" d</name>
 <info>Sada Obsahuje Prut A Pevný Naviják Od Výrobce Mcnaller.
 Obsahuje:
 Х1 Crestline TH - Expert
@@ -8765,12 +8765,12 @@ Obsah Náplně - Vysoký.</info>
 <info>Unikátní památeční sud s pivem „oktoberfest 2025“, který si můžete umístit na svém pozemku. Sud obsahuje 100 doušků říjnového piva. Při použití má následující účinek:</info>
 </weapon>
 <weapon id="2821">
-<name>Recept na "slimule-živá návnada"</name>
+<name>Recept na "Slimule-Živá Návnada"</name>
 <info>Unikátní Recept Na Přípravu Živé Návnady Ze Slimule.
 Vhodné Pro Slimule Do 250 Gramů.</info>
 </weapon>
 <weapon id="2822">
-<name>Recept "кousky slimule"</name>
+<name>Recept "Кousky Slimule"</name>
 <info>Unikátní recept na přípravu kousků masa ze slimule.</info>
 </weapon>
 <weapon id="2823">
@@ -8802,31 +8802,31 @@ Vlasce Za Obrat: 1,99М
 Tření /</info>
 </weapon>
 <weapon id="2827">
-<name>Skin "atom ms10"</name>
+<name>Skin "Atom Ms10"</name>
 <info>Skin Pro Atomové Pruty:
 Атомppl, Atom A-Spin 22, Атомds.
 Platí Do Konce Akce „Atomový Týden 2025“</info>
 </weapon>
 <weapon id="2828">
-<name>Skin "atom ml24"</name>
+<name>Skin "Atom Ml24"</name>
 <info>Skin Pro Atomové Pruty:
 Атомppl, Atom A-Spin 22, Атомds.
 Platí Do Začátku Dalšího Eventu „Atomový Týden“.</info>
 </weapon>
 <weapon id="2829">
-<name>Skin "atom mp detector"</name>
+<name>Skin "Atom Mp Detector"</name>
 <info>Skin Pro Atomové Pruty:
 Атомppl, Atom A-Spin 22, Атомds.
 Stálý</info>
 </weapon>
 <weapon id="2831">
-<name>Plovák "balsa atom"</name>
+<name>Plovák "Balsa Atom"</name>
 <info>VYBERTE JEDEN
 Kontejner Obsahuje 1 Kus "Balsa Atom".
 Není Určeno K Prodeji V Aukci.</info>
 </weapon>
 <weapon id="2832">
-<name>Série "masakr"</name>
+<name>Série "Masakr"</name>
 <info>Návnada Sestavená Z Prázdné Nábojnice, Trojitého Háčku A Kulky.
 Určená Pro Vertikální Lov.
 Návnada Atomového Eventu.</info>
@@ -8844,7 +8844,7 @@ Určená Pro Vertikální Lov.
 Návnada Atomového Eventu.</info>
 </weapon>
 <weapon id="2835">
-<name>Série "pařát"</name>
+<name>Série "Pařát"</name>
 <info>Návnada Je Vyrobena Ze Starého Hadice A Kusu Provazu.
 Návnada Atomového Eventu.</info>
 </weapon>
@@ -8854,7 +8854,7 @@ Návnada Atomového Eventu.</info>
 Návnada Atomového Eventu. </info>
 </weapon>
 <weapon id="2837">
-<name>Série"dorn"</name>
+<name>Série"Dorn"</name>
 <info>Starý, Rezavý Hřebík Se Vždycky Hodí. Je Vybaven Několika Háčky.
 Návnada Atomového Eventu.</info>
 </weapon>
@@ -8864,7 +8864,7 @@ Návnada Atomového Eventu.</info>
 Návnada Atomového Eventu.</info>
 </weapon>
 <weapon id="2839">
-<name>Série "vichřice"</name>
+<name>Série "Vichřice"</name>
 <info>Kovové Víčko Se Zahnutými Okraji, Skvěle Se Otáčí A Leskne Se Pod Vodou.
 Návnada Atomového Eventu.</info>
 </weapon>
@@ -9517,7 +9517,7 @@ Lze S Ní Obchodovat, Ale Nelze Ji Prodat V Aukční Síni.</info>
 <info>Sada s předměty. Lze darovat, ale nelze prodat v aukci. Děkujeme za vaši podporu!</info>
 </weapon>
 <weapon id="2982">
-<name>Stan "vlna"</name>
+<name>Stan "Vlna"</name>
 <info>Rybářský tábor. Slouží jako bod teleportu. Opakovaně použitelný. </info>
 </weapon>
 <weapon id="2984">
