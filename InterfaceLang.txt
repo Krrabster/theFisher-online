@@ -3,13 +3,13 @@ station_renterror=Odložte rybářský prut
 npc_pizzaman=Antonio Pizzaiolo
 npc_pizzaoven=Pec na pizzu
 --------------------------------
-wpn_icebox=Čištění dráhy
-wpn_period=Platné do
+wpn_icebox=<color='#FFB74D'>Čištění dráhy</color>
+wpn_period=<color='#FFB74D'>Platné do</color>
 set_dontextToday=Dnes to neukazuj
 ---------------------------------
 happyny26=Šťastný nový rok!
 
-crftcat_900=<color='#ffd700'>Událost</color>
+crftcat_900=<color='#FFB74D'>Událost</color>
 
 ctx_styleSingle=Jeden z uvedených
 ctx_styleMulty=Dodatečná těžba
@@ -36,7 +36,7 @@ serve_capt = Server
 set_fire_work = Ukazovat ohňostroje
 ---------------------------------
 
-crftcat_730=<color='#4DD0E1'>Nástrahy</color>
+crftcat_730=<color='#FFB74D'>Nástrahy</color>
 zmb_atom=Zapomenutý pronásledovatel
 ---------------------------------
 lightcolor_0=Žádná
@@ -51,7 +51,7 @@ lightcolor_8=Růžová
 lightcolor_9=Fialová
 ---------------------------------
 
-minreel_size=<color='#80CBC4'>★ Navijáky ≥ {0}</color>
+minreel_size=<color='#4FC3F7'>★ Navijáky ≥ {0}</color>
 ---------------------------------
 fonar_nobattery=Vymeňte baterii
 inf_battery=Nabito
@@ -83,7 +83,7 @@ auk_headlow=Aukce\nÚroveň 20
 
 post_msg8=Příjemce nedosáhl úrovně 15.
 
-maxreel_size=<color='#80CBC4'>★ Navijáky ≤ {0}</color>
+maxreel_size=<color='#4FC3F7'>★ Navijáky ≤ {0}</color>
 reel_size=Velikost navijáku:
 setVol_ui=Hlasitost rozhraní
 ---------------------
@@ -140,14 +140,14 @@ set_trade_all=Přijmout nabídky na výměnu od všech hráčů
 set_trade_club=Přijímání návrhů od členů klubu
 set_trade_friend=Přijímání návrhů od přátel
 --------------------
-wpn_info_personal=<color='#00E5FF'>★ Osobní</color>
+wpn_info_personal=<color='#1565C0'>★ Osobní</color>
 --------------------
 
 npc_soup=Pouliční kuchyně
 --------------------
-wpn_bait_typ_3=Zimní návnada
-wpn_info_for=Pro:
-wpn_timed_shrt=<color='#ffd700'>Zbývá {0}</color>
+wpn_bait_typ_3=<color='#FFB74D'>Zimní návnada</color>
+wpn_info_for=<color='#FFB74D'>Pro:</color>
+wpn_timed_shrt=<color='#FFB74D'>Zbývá {0}</color>
 infcell_swinger=Wobler
 infcell_amulet=Amulet
 infcell_skin=Vzhled
@@ -164,9 +164,9 @@ setng_tessdst=Teselační vzdálenost
 setng_tessqlt=Kvalita teselace
 setng_tessainf=Vysoké hodnoty mohou snížit počet snímků za sekundu
 
-shop_t27=<color='#8080FF'>Zima</color>
+shop_t27=<color='#FFB74D'>Zima</color>
 
-crftcat_720=<color='#FF8A65'>Nápoje</color>
+crftcat_720=<color='#FFB74D'>Nápoje</color>
 --------------------
 
 npc_beercraft=Kotel
@@ -185,15 +185,15 @@ shop_montly=[Mesíční] {0} / {1}
 ----------------------------------------
 
 npc_germ=Hanna Schmidt
-crftcat_414=<color='#B0BEC5'>Materiály</color>
+crftcat_414=<color='#FFB74D'>Materiály</color>
 crftcat_416=<color='#FFB74D'>Sušení</color>
 auc_detlinf=Aktuální nabídky
 auk_wmmedweek=Průměrná cena za týden: {0}
 auk_wmmedminmax=Možná cena {0} -{1}
 auk_wmincapt=Informace o ceně za den:
-shop_t26=<color='#80FFFF'>Obchodníci</color>
+shop_t26=<color='#FFB74D'>Obchodníci</color>
 
-cht_msg 42=Odměny: {0} × {1} ks
+cht_msg42=Prodáno: {0} × {1} ks
 limit_capt=Limit {0}/{1}
 limit_inf=Limit prodeje je denně aktualizován\n\nZelená cena znamená, že hodnota nákladu je vyšší než průměrná, červená cena znamená, že je nižší...\n\nZelená šipka znamená, že cena bude vyšší zítra. Červená znamená nižší.
 
@@ -204,8 +204,8 @@ ico_forum_url=Https://steamcommunity.Com/app/1094780/discussions/
 npc_pra=Petrowitsch
 --------------------
 uiqueue=Místo ve frontě
-dl_body_5=Váš předmět byl prodán v aukci.Peníze jsou přiloženy k dopisu.
-dl_theme_5=Prodej [pozice]
+dl_body_5=Váš předmět [item] byl prodán v aukci.\nPeníze jsou přiloženy k dopisu.
+dl_theme_5=Prodej [item]
 
 int_nlevel=Nová úroveň!
 capt_point=Dosažen cílový bod
@@ -221,7 +221,7 @@ capt_order_11=Střední rychlost
 capt_order_12=Maximální rychlost
 
 clubact_10=<color='#FFA726'>{0} Převedl klub na {1}</color>
-clubact_12=<color='#40C4FF'>{1} Přijal {0} do klubu</color>
+clubact_12=<color='#EF5350'>{1} Přijal {0} do klubu</color>
 clubact_14=<color='#FF7043'>{0} Opustil klub</color>
 clubact_16=<color='#FF5252'>{0} Vyloučen {1} z klubu</color>
 
@@ -229,7 +229,7 @@ prov_prov_12=Vertikální hra s nástrahami
 prov_prov_11=Pilkrování v hloubce
 prov_prov_10=Pilkrování
 
-wpn_bait_typ_2=Pilkr
+wpn_bait_typ_2=<color='#FFB74D'>Pilkr</color>
 infcell_trhook=Trojitý háček
 infcell_pilk=Pilkr
 infcell_gacs=Olůvko/chobotnice/Gummymac
@@ -238,7 +238,7 @@ line_color10=Barva
 post_activate=Bod je aktivován
 post_isactive=Bod je již otevřen
 active_obj_rpost=Záchytný bod
-crftcat_412=<color='#81C784'>Zdroje</color>
+crftcat_412=<color='#FFB74D'>Zdroje</color>
 act_build=[E] Stavba
 act_deconstr=<color='#FF8A80'>[Shift+E] Sundat</color>
 
@@ -294,24 +294,24 @@ shop_buygoods=Trh
 workpointshort=Pb
 time_format4={0} Sek
 
-crftcat_74=<color='#BA68C8'>Produkce</color>
-crftcat_75=<color='#69F0AE'>Úlovek</color>
-crftcat_80=<color='#4FC3F7'>Příslušenství</color>
+crftcat_74=<color='#FFB74D'>Produkce</color>
+crftcat_75=<color='#FFB74D'>Úlovek</color>
+crftcat_80=<color='#FFB74D'>Příslušenství</color>
 
-crftcat_400=<color='#DCE775'>Krmivo</color>
-crftcat_401=<color='#DCE775'>Přísady</color>
-crftcat_402=<color='#DCE775'>Aromatizátory</color>
-crftcat_403=<color='#DCE775'>Dipy</color>
-crftcat_406=<color='#AED581'>Přírodní návnady</color>
-crftcat_407=<color='#AED581'>Těsta a pasty</color>
-crftcat_408=<color='#AED581'>Vařené návnady</color>
-crftcat_410=<color='#4DD0E1'>Woblery</color>
-crftcat_500=<color='#81C784'>Plováky</color>
-crftcat_700=<color='#FFD54F'>Pruty</color>
-crftcat_702=<color='#4FC3F7'>Navijáky</color>
-crftcat_705=<color='#80CBC4'>Vlasce</color>
+crftcat_400=<color='#FFB74D'>Krmivo</color>
+crftcat_401=<color='#FFB74D'>Přísady</color>
+crftcat_402=<color='#FFB74D'>Aromatizátory</color>
+crftcat_403=<color='#FFB74D'>Dipy</color>
+crftcat_406=<color='#FFB74D'>Přírodní návnady</color>
+crftcat_407=<color='#FFB74D'>Těsta a pasty</color>
+crftcat_408=<color='#FFB74D'>Vařené návnady</color>
+crftcat_410=<color='#FFB74D'>Woblery</color>
+crftcat_500=<color='#FFB74D'>Plováky</color>
+crftcat_700=<color='#FFB74D'>Pruty</color>
+crftcat_702=<color='#FFB74D'>Navijáky</color>
+crftcat_705=<color='#FFB74D'>Vlasce</color>
 crftcat_707=<color='#FFB74D'>Háčky</color>
-crftcat_710=<color='#FFF176'>Zátěže a krmítka</color>
+crftcat_710=<color='#FFB74D'>Zátěže a krmítka</color>
 
 --------------------
 
@@ -371,14 +371,14 @@ cfishdrop_6=Slabé zaseknutí navijáku
 cfishdrop_7=Háček za překážkou
 cfishdrop_8=Malý háček
 
-wpn_line4={0} {1} Mm\nDélka: {2} cm
+wpn_line4=<color='#FFB74D'>{0} {1} Mm\nDélka: {2} cm</color>
 
 active_obj_200=Past na hmyz
 active_obj_202=Past na raky
 
 
 shop_pack=Výběr
-wpn_cat6=Cívka: {0:0.0} m/{1} mm
+wpn_cat6=<color='#FFB74D'>Cívka: {0:0.0} m/{1} mm</color>
 
 line_type6=Typ: copolymerový
 line_type7=Typ: vys.Copolymer
@@ -418,9 +418,9 @@ prov_prov_9=Vedení nástrahy „walk the dog“
 achive_mode1=Probíhá
 achive_mode2=<color='#69F0AE'>Splněno</color>
 achive_button=Úspěchy
-wpn_sheme=Schéma
-wpn_shemealbum=Sbírka schémat
-wpn_container=Kapacita: {0} ks
+wpn_sheme=<color='#FFB74D'>Schéma</color>
+wpn_shemealbum=<color='#FFB74D'>Sbírka schémat</color>
+wpn_container=<color='#FFB74D'>Kapacita: {0} ks</color>
 --------------------
 
 
@@ -477,14 +477,14 @@ swpn_remtp2=Pro rybářské navijáky
 swpn_reM1=Oprava: +{0}
 swpn_reM2=Maximální životnost: {0}
 swpn_reM3=Pro opravy: {0}
-repr_inf1=Maximální odolnost: {0}\nZákladní odolnost: {1}\nSoučasná životnost: {2}\nPočet oprav: {3}\nZtráta odolnosti: {4}%
+repr_inf1=Maximální odolnost: {0}\nZákladní odolnost: {1}\nSoučasná životnost: {2}\n<color='#FFB74D'>Počet oprav: {3}</color>\nZtráta odolnosti: {4}%
 --------------------
 
 bot_prtct_p1=Dobrý den, tady je inspekce rybolovu. Potřebujeme si ujasnit vaši úroveň přístupu
 bot_prtct_p2=Zadejte výsledek {0}{2}{1}=?
 
-wpn_bait_typ_1=Jigová nástraha
-wpn_bait_typ_4_V=Pilkr
+wpn_bait_typ_1=<color='#FFB74D'>Jigová nástraha</color>
+wpn_bait_typ_4_V=<color='#FFB74D'>Pilkr</color>
 rod_dst=Rozsah
 --------------------
 act_infactout=Vyzvednutí shift+e
@@ -512,7 +512,7 @@ clubInfo_12=Aktuální mzdový fond: {0}
 casset_5=Maximální plat řadového zaměstnance
 casset_6=Maximální plat funkcionáře klubu
 
-clublogperk=<color='#40C4FF'>{0} Zlepšil dovednosti {1} lv {2}  {3}</color>
+clublogperk=<color='#EF5350'>{0} Zlepšil dovednosti {1} lv {2}  {3}</color>
 clublogsalary=<color='#FFA726'>Výplata mzdy {1} x{2}</color>
 --------------------
 casset_0=Nastavení pokladny
@@ -593,32 +593,34 @@ gi_um_13=Přístaviště
 boat_inf9=Veslování [J]\nNah./dol. Kotva [K]
 --------------------
 
-dntpck_144_name=Balíček "Atomppl"
+
+dntpck_144_name=<color='#40C4FF'>Balíček "Atomppl"</color>
 dntpck_144_info=Sada obsahuje boloňský prut na 22 kg v atomovém provedení. Neotevřenou sadu lze předat příteli..
 
 
-dntpck_148_name=Balíček "Atomds"
+
+dntpck_148_name=<color='#40C4FF'>Balíček "Atomds"</color>
 dntpck_148_info=Sada obsahuje 22 kg feederový prut v atomovém provedení. Neotevřenou sadu lze předat kamarádovi.
 
 --------------------
 
-rclassfull_1=Ultralehký
-rclassfull_2=Lehký
-rclassfull_3=Středně lehký
-rclassfull_4=Střední
-rclassfull_5=Středně těžký
-rclassfull_6=Těžký
-rclassfull_7=Extra těžký
-rclassfull_8=Ultra těžký
+rclassfull_1=<color='#FFB74D'>Ultralehký</color>
+rclassfull_2=<color='#FFB74D'>Lehký</color>
+rclassfull_3=<color='#FFB74D'>Středně lehký</color>
+rclassfull_4=<color='#FFB74D'>Střední</color>
+rclassfull_5=<color='#FFB74D'>Středně těžký</color>
+rclassfull_6=<color='#FFB74D'>Těžký</color>
+rclassfull_7=<color='#FFB74D'>Extra těžký</color>
+rclassfull_8=<color='#FFB74D'>Ultra těžký</color>
 
-rclasshort_1=UL
-rclasshort_2=L
-rclasshort_3=Sl
-rclasshort_4=S
-rclasshort_5=St
-rclasshort_6=T
-rclasshort_7=Et
-rclasshort_8=Ut
+rclasshort_1=<color='#FFB74D'>UL</color>
+rclasshort_2=<color='#FFB74D'>L</color>
+rclasshort_3=<color='#FFB74D'>Sl</color>
+rclasshort_4=<color='#FFB74D'>S</color>
+rclasshort_5=<color='#FFB74D'>St</color>
+rclasshort_6=<color='#FFB74D'>T</color>
+rclasshort_7=<color='#FFB74D'>Et</color>
+rclasshort_8=<color='#FFB74D'>Ut</color>
 
 --------------------
 
@@ -668,16 +670,16 @@ fl_silver_hint=Úkol pro stříbrnou medaili základny
 
 --------------------
 
-wpn_bait_sz3=Velký
+wpn_bait_sz3=<color='#FFB74D'>Velký</color>
 pckjname=Kit "Jerkpredator"
 pckjinfo=Sada obsahuje jerkový prut (30 kg 2,2 m test 35-60), naviják, vlasec a tři jerk nástrahy. Sestava poskytuje +10 % k získaným zkušenostem a zvyšuje dosah a přesnost nahazování těžkých jerkových nástrah.
 
 --------------------
 
 setenbl_sign=Vypnutí signalizace při dlouhém záběru
-wpn_bait_typ_7jrk=Jerkbait
+wpn_bait_typ_7jrk=<color='#FFB74D'>Jerkbait</color>
 prov_prov_4jrk=Vedení jerkbaity
-wpn_bait_sz4=Obrovský
+wpn_bait_sz4=<color='#FFB74D'>Obrovský</color>
 
 --------------------
 
@@ -709,12 +711,13 @@ wpn_hook_sz5=Gigantický (№6/0)
 
 
 inv_invsz=+ {0} Slotů
-wpn_fromwh=Vzít
-wpn_towh=Do skladu
+wpn_fromwh=<color='#FFB74D'>Vzít</color>
+wpn_towh=<color='#FFB74D'>Do skladu</color>
 active_obj_11=Sklad
 --------------------
 
-dntpck_5a_name=Sada "Svítící Plováky"
+
+dntpck_5a_name=<color='#40C4FF'>Sada "Svítící Plováky"</color>
 dntpck_5a_info=Sada obsahuje tři svítící plováky 10-8 různých barev (červená, modrá, zelená).
 wptype_drybrd=Suché těsto
 inf_aroma=Pach:
@@ -791,10 +794,12 @@ setng_lb9=Zorné pole
 
 --------------------
 
-dntpck_6_name=Balíček "Salamo Gold"
+
+dntpck_6_name=<color='#40C4FF'>Balíček "Salamo Gold"</color>
 dntpck_6_info=Sada obsahuje prut na lov při dně (43 kg / 4 m / test 50–110), naviják, vlasec a košík na krmení ze sady salamo carphunter gold.
 
-dntpck_5_name=Balíček "Světelné Plováky"
+
+dntpck_5_name=<color='#40C4FF'>Balíček "Světelné Plováky"</color>
 dntpck_5_info=Sada obsahuje tři svítící plováky 20-12 různých barev (červená, modrá, zelená).
 
 sh_pay_day_90=90 Dní
@@ -814,7 +819,7 @@ chat_sl1=Uložit
 chat_talk=Zrušit
 --------------------
 
-repr_cnt=Počet oprav:
+repr_cnt=<color='#FFB74D'>Počet oprav:</color>
 
 key_help=Pomoc
 key_chinfo=Info chat
@@ -823,7 +828,8 @@ key_chclub=Klubový chat
 key_chturn=Turnajový chat
 --------------------
 
-dntpck_4_name=Balíček "Bombard Gold"
+
+dntpck_4_name=<color='#40C4FF'>Balíček "Bombard Gold"</color>
 dntpck_4_info=Sada obsahuje prut na plavanou (43 kg), naviják, vlasec a splávek ze sady bombard gold s výstražným světlem. Sada je určená k lovu velkých kaprů nebo tolstolobiků.
 
 --------------------
@@ -920,9 +926,10 @@ act_inf5e=[E] Sebrat
 
 //---------------------
 craftwp_btn=<color='#FF0000'>Řemeslný stůl</color>
-dntpck_3_name=Balíček "Bee Picker"
+
+dntpck_3_name=<color='#40C4FF'>Balíček "Bee Picker"</color>
 dntpck_3_info=Balíček obsahuje lehký picker (6 kg prut, + 50 % k získaným zkušenostem), naviják a vlasec. Neotevřenou sadu lze darovat další osobě.
-wpn_ibsize_4=Háček (№3-5)
+wpn_ibsize_4=<color='#FFB74D'>Háček (№3-5)</color>
 //---------------------
 
 
@@ -1042,7 +1049,8 @@ club_levup=Klubová úroveň na {0}
 club_expadd=Klub +{0} zk
 qd_clname=Klub
 
-dntpck_130_name=Balíček "Zakladatel"
+
+dntpck_130_name=<color='#40C4FF'>Balíček "Zakladatel"</color>
 dntpck_130_info=Obsahuje odznak "zakladatel klubu", pomocí kterého můžete založit vlastní rybářský klub.
 dntpck_130_act=+ 15Denní VIP karta jako dárek
 
@@ -1073,11 +1081,13 @@ club_err4=Jméno nebo značka již existuje
 
 btn_qtaskvip=Základny
 
-dntpck_2_name=Balíček "Seacast"
+
+dntpck_2_name=<color='#40C4FF'>Balíček "Seacast"</color>
 dntpck_2_info=Sada obsahuje těžký castingový prut (52 kg, test 30–90 g), multiplikační naviják, vlasec a 500 ks stříbra.
 
 dntpck_1_hint=* Cena pro váš region se může lišit.
-dntpck_1_name=Balíček "Beecast"
+
+dntpck_1_name=<color='#40C4FF'>Balíček "Beecast"</color>
 dntpck_1_info=Sada obsahuje lehký castingový prut (5 kg, +75 % zkušeností), nízkoprofilový naviják, vlasec a náhodnou sadu UL nástrah (3 ks).
 
 
@@ -1088,8 +1098,8 @@ ny_later=Nic jiného dnes není. Přijďte zítra.
 ufstat_trof=Trofejní:
 
 cht_bmsg7=Místní rekord: {0} {1}
-cht_bmsg8=<color='#40C4FF'>Nastavil jste {0}</color>
-cht_bmsg9=<color='#40C4FF'>Hráč {0} nastavil {1}</color>
+cht_bmsg8=<color='#EF5350'>Nastavil jste {0}</color>
+cht_bmsg9=<color='#EF5350'>Hráč {0} nastavil {1}</color>
 
 gi_um_11=Cestování
 rect_baserec=Místní rekordy
@@ -1210,7 +1220,7 @@ act_inf2=Obchodník s rybami
 act_inf3=Obchod
 
 
-wpn_remf1=Oprava {0}\nCena {1}?
+wpn_remf1=<color='#FFB74D'>Oprava {0}\nCena {1}?</color>
 sh_pay_vpadd=Přidat VIP {0} dní
 sh_pay_overlay=Zapnutí funkce Steam overlay!
 
@@ -1230,7 +1240,7 @@ prov_prov_5=Přiseknutí
 prov_prov_6=Vícenásobné přiseknutí
 prov_prov_7=Krok za krokem výskok
 
-wpn_catfly=Cívka: {0:0.0} m (při použití šňůry 1 mm)
+wpn_catfly=<color='#FFB74D'>Cívka: {0:0.0} m (při použití šňůry 1 mm)</color>
 
 treel_type0=Stacionární
 treel_type1=Setrvačný
@@ -1267,9 +1277,9 @@ setVol_motr=Hlasitost motorů
 #the Fisher
 #------------------------------------
 
-tf_wpr1=Síla: {0}\nDélka: {1} m
-tf_wpr2=Brzda {1}\nSíla {0}
-tf_wpr3=Síla: {1}\nTloušťka: {0} mm
+tf_wpr1=<color='#FFB74D'>Síla: {0}</color>\n<color='#FFB74D'>Délka: {1} m</color>
+tf_wpr2=Brzda {1}\n<color='#FFB74D'>Síla {0}</color>
+tf_wpr3=<color='#FFB74D'>Síla: {1}</color>\nTloušťka: {0} mm
 tf_wpr4=Množství: {0}ks\nVáha: {1}
 tf_wpr5=Hloubka {0} m
 
@@ -1375,10 +1385,10 @@ trn_reg=Příprava na turnaj `{0}`
 
 anfish=Jakákoli ryba
 prisefond=Výherní fond:
-pf1 m=1 Místo: {0}
-pf2 m=2 Místo: {0}
-pf3 m=3 Místo: {0}
-pf4_10 m=4-10 Místo: {0}
+pf1m=1. místo: {0}
+pf2m=2. místo: {0}
+pf3m=3. místo: {0}
+pf4_10m=4.–10. místo: {0}
 
 #Added 28.02.2018
 #------------------------------------
@@ -1395,7 +1405,7 @@ turn_state100=Uzavřeno
 
 #Added 06.03.2018
 #------------------------------------
-pck_feed_name=<size=22>Volgar Premium</size>\nHerní balíček
+pck_feed_name=<size=22><color='#40C4FF'>Volgar Premium</color></size>\nHerní balíček
 pck_feed_info=<b>Prut Volgar ledger</b>\n<size=10>28 Kg, daleký nához</size>\n\n<b>Multiplikátor volgar-roll</b>\n<size=10>Brzda 26 kg, 20× zesílení, 20× kompenzace</size>\n\n<b>Vlasec volgar-line</b>\n<size=10>26 Kg, 0,28 mm, 150 m, zelený</size>\n\n<b>Krmítko „method“</b>\n<size=10>40 G, vhodné pro kaprovité ryby</size>
 
 #Added 04.03.2018
@@ -1431,25 +1441,25 @@ rod_inf2=Optimální pro ryby od {0} kg
 
 #Added 15.02.2018
 #------------------------------------
-wpn_bait_sz=Velikost:
-wpn_bait_sz0=Malý
-wpn_bait_sz1=Střední
-wpn_bait_sz2=Větší
+wpn_bait_sz=<color='#FFB74D'>Velikost:</color>
+wpn_bait_sz0=<color='#FFB74D'>Malý</color>
+wpn_bait_sz1=<color='#FFB74D'>Střední</color>
+wpn_bait_sz2=<color='#FFB74D'>Větší</color>
 
-wpn_bait_typ_4=Třpytky plandavky
-wpn_bait_typ_5=Rotační třpytky
-wpn_bait_typ_6=Jigové návnady
-wpn_bait_typ_7=Wobler
+wpn_bait_typ_4=<color='#FFB74D'>Třpytky plandavky</color>
+wpn_bait_typ_5=<color='#FFB74D'>Rotační třpytky</color>
+wpn_bait_typ_6=<color='#FFB74D'>Jigové návnady</color>
+wpn_bait_typ_7=<color='#FFB74D'>Wobler</color>
 
-wpn_bait_vob_0=Hladinový
-wpn_bait_vob_1=Hlubinný
-wpn_bait_vob_2=Potápějící se
-wpn_bait_vob_deep=Ponor: {0} m
+wpn_bait_vob_0=<color='#FFB74D'>Hladinový</color>
+wpn_bait_vob_1=<color='#FFB74D'>Hlubinný</color>
+wpn_bait_vob_2=<color='#FFB74D'>Potápějící se</color>
+wpn_bait_vob_deep=<color='#FFB74D'>Ponor: {0} m</color>
 
-wpn_bait_inf_4=Třpytky s kmitavým pohybem dobře fungují při rovnoměrném i krokovém vedení
-wpn_bait_inf_5=Rotační třpytky fungují nejlépe při pomalém rovnoměrném vedení
-wpn_bait_inf_6=Jigovací plandavky vyžadují jigové nebo skokové vedení. Dravec útočí většinou v okamžiku, kdy nástraha dopadne na dno.
-wpn_bait_inf_7=Woblery fungují nejlépe při pomalém vedení, ale ideální volbou je použití twitchingu (škubavého vedení)
+wpn_bait_inf_4=<color='#FFB74D'>Třpytky s kmitavým pohybem dobře fungují při rovnoměrném i krokovém vedení</color>
+wpn_bait_inf_5=<color='#FFB74D'>Rotační třpytky fungují nejlépe při pomalém rovnoměrném vedení</color>
+wpn_bait_inf_6=<color='#FFB74D'>Jigovací plandavky vyžadují jigové nebo skokové vedení. Dravec útočí většinou v okamžiku, kdy nástraha dopadne na dno.</color>
+wpn_bait_inf_7=<color='#FFB74D'>Woblery fungují nejlépe při pomalém vedení, ale ideální volbou je použití twitchingu (škubavého vedení)</color>
 
 prov_sob_1=Kontakt s povrchem
 prov_sob_2=Dopad na dno
@@ -1463,7 +1473,7 @@ prov_prov_3=Jigování
 prov_prov_4=Cukání
 
 
-wpn_cat5=Cívka: {0:0.0} m (pro použití vlasce 0.8 mm)
+wpn_cat5=<color='#FFB74D'>Cívka: {0:0.0} m (pro použití vlasce 0.8 mm)</color>
 cnt_dstall={0:0.0} M / {1:0.0} m
 
 
@@ -1499,17 +1509,17 @@ echo_spec53=Rychlý proud
 
 #Added 28.01.2018
 #------------------------------------
-shop_t19=Krmivo
+shop_t19=<color='#FFB74D'>Krmivo</color>
 
 #Added 26.01.2018
 #------------------------------------
-wpn_fid1=Množství krmení (gr): {0}
-wpn_fid2=Časová platnost krmení (real min): {0}
-wpn_fid3=Maskování: {0}%
+wpn_fid1=<color='#FFB74D'>Množství krmení (gr): {0}</color>
+wpn_fid2=<color='#FFB74D'>Časová platnost krmení (real min): {0}</color>
+wpn_fid3=<color='#FFB74D'>Maskování: {0}%</color>
 
-wpn_line3=Tloušťka (mm): {0}
+wpn_line3=<color='#FFB74D'>Tloušťka (mm): {0}</color>
 wpn_hook3=Šance na zaseknutí: {0}%
-wpn_wgt=Váha: {0}
+wpn_wgt=<color='#FFB74D'>Váha: {0}</color>
 
 
 #Added 17.01.2018
@@ -1589,13 +1599,13 @@ gi_usei=Používá se:
 
 #Added 01.10.2017
 #------------------------------------
-gi_inte_1=Šance na chycení kořisti (od počátečního) {0}%
-gi_inte_2=Příjem zkušeností {0}%
-gi_inte_3=Získané zkušenosti {0}%
-gi_inte_4=Tažná síla {0}
-gi_inte_5=Největší ryba {0}
+gi_inte_1=<color='#FFB74D'>Šance na chycení kořisti (od počátečního) {0}%</color>
+gi_inte_2=<color='#FFB74D'>Příjem zkušeností {0}%</color>
+gi_inte_3=<color='#FFB74D'>Získané zkušenosti {0}%</color>
+gi_inte_4=<color='#FFB74D'>Tažná síla {0}</color>
+gi_inte_5=<color='#FFB74D'>Největší ryba {0}</color>
 
-pck_match_name=<size=22>Match Premium</size>\nHerní balíček
+pck_match_name=<size=22><color='#40C4FF'>Match Premium</color></size>\nHerní balíček
 pck_match_info=<b>Prut match-premium</b>\n<size=10>20 Kg, hloubka 5,5 m, daleký nához</size>\n\n<b>Naviják matchroll</b>\n<size=10>Brzda až 19,8 kg, 20× zesílení, 20× kompenzace</size>\n\n<b>Vlasec matchline</b>\n<size=10>20 Kg, 150 m</size>\n\n<b>Splávek matched</b>\n<size=10>Zvětšený, se zvukovým signalizátorem záběru</size>
 
 #Added 20.08.2017
@@ -1614,20 +1624,20 @@ sw_txt4=Zvuková signalizace plováku
 
 #Added 03.06.2017
 #------------------------------------
-wpn_iwgt=Hmotnost: {0}
-wpn_ibsize_0=Malá velikost (háčky №0-1)
-wpn_ibsize_1=Střední velikost (háčky №0-2)
-wpn_ibsize_2=Větší velikost (háčky №1-3)
-wpn_ibsize_3=Obrovská velikost (háčky №2-4)
+wpn_iwgt=<color='#FFB74D'>Hmotnost: {0}</color>
+wpn_ibsize_0=<color='#FFB74D'>Malá velikost (háčky №0-1)</color>
+wpn_ibsize_1=<color='#FFB74D'>Střední velikost (háčky №0-2)</color>
+wpn_ibsize_2=<color='#FFB74D'>Větší velikost (háčky №1-3)</color>
+wpn_ibsize_3=<color='#FFB74D'>Obrovská velikost (háčky №2-4)</color>
 
 wpn_hookf=Pro ryby od {0} do {1}
 
 
 #Added 28.04.2017
 #------------------------------------
-wpn_chair1=Obnovení energie při sezení: {0}/s
-wpn_chair2=<color='#FF5252'>Rybaření je horší, když sedíte: {0}%</color>
-wpn_chair3=Zlepšení rybolovu při sezení: {0}%
+wpn_chair1=<color='#FFB74D'>Obnovení energie při sezení: {0}/s</color>
+wpn_chair2=<color='#FFB74D'>Rybaření je horší, když sedíte: {0}%</color>
+wpn_chair3=<color='#FFB74D'>Zlepšení rybolovu při sezení: {0}%</color>
 
 
 #Added 26.04.2017
@@ -1716,25 +1726,25 @@ cht_msg4=<color='#FF5252'>Nedostatek finančních prostředků</color>
 cht_msg5=<color='#69F0AE'>Aukce: prodáno {0} x{1} ks</color>
 cht_msg6=<color='#FF5252'>Server se restartuje v {0}</color>
 cht_msg7=Rekord: {0} {1}
-cht_msg8=<color='#40C4FF'>Nastavili jste {0}</color>
-cht_msg9=<color='#40C4FF'>Hráč {0} nastavil {1}</color>
+cht_msg8=<color='#EF5350'>Nastavili jste {0}</color>
+cht_msg9=<color='#EF5350'>Hráč {0} nastavil {1}</color>
 
 cht_msg10=<color='#FFA726'>Položka `{0}` se zhoršila</color>
 cht_msg11=<color='#69F0AE'>Demontáž je dokončena</color>
 cht_msg12=<color='#69F0AE'>Naučil jsi se recept na {0} </color>
-cht_msg13=<color='#40C4FF'>Dostali jste nový e-mail</color>
+cht_msg13=<color='#EF5350'>Dostali jste nový e-mail</color>
 
 cht_msg14=<color='#FF5252'>Žádná taková položka neexistuje</color>
 cht_msg15=<color='#FF5252'>Nedostatek pb pro zpracování</color>
 cht_msg16=<color='#FF5252'>Tuto položku nelze recyklovat</color>
 
-cht_msg17=<color='#40C4FF'>Otevřena nová frakce '{0}'</color>
+cht_msg17=<color='#EF5350'>Otevřena nová frakce '{0}'</color>
 cht_msg18=<color='#69F0AE'>Nová úroveň reputace '{0}': {1}</color>
 cht_msg19=<color='#69F0AE'>Zvýšení reputace: '{0}' na {1}</color>
 cht_msg20=<color='#69F0AE'>Položka byla odeslána do aukce</color>
 cht_msg21=<color='#FF5252'>Nedostatek finančních prostředků na aukční poplatek</color>
 cht_msg22=<color='#FF5252'>Takovou položku nemáte</color>
-cht_msg23=<color='#40C4FF'> Přijato k úkolu</color>
+cht_msg23=<color='#EF5350'> Přijato k úkolu</color>
 
 cht_msg24=Úkol chybí
 cht_msg25=Je zapotřebí vyšší úroveň reputace
@@ -1761,7 +1771,7 @@ chan_nam=Kanál
 gameban=Účet je zablokován!\nDo: {0} (čas serveru)\nDůvod: {1}
 gameexist=Hráč se stejnými údaji je již ve hře!
 
-wpn_drop=<color='#FFA726'>Předmět {0} byl ztracen</color>
+wpn_drop=<color='#FFB74D'>Předmět {0} byl ztracen</color>
 myrec=<color='#E040FB'>Osobní rekord: {0} (zkušenosti ×3)</color>
 settitul=Nový název byl stanoven:
 newtitul=Získání nového titulu:
@@ -1798,85 +1808,85 @@ fshop_fcost={0}\nCena za 1 kg: {1}      průměrná cena za kus: {2}
 fshop_fcost2={0} {1} Ks\nProdat za {2}
 
 shop_bccount= (Máte {0} ks)
-shop_bccost=Cena x{1}: {2}
+shop_bccost=<color='{0}'>Cena x{1}: </color>{2}
 shop_ycnt=Máš {0} ks
 shop_wl=Koupit {0} s
 shop_header=Obchod s vybavením
 
-shop_t1=Návnady
-shop_t2=Třpytky/NÁvnady
-shop_t3=Imitace návnad
-shop_t4=Přísady do návnad
-shop_t5=Pruty na splávek
-shop_t6=Přívlačové pruty
-shop_t7=Feederové pruty
-shop_t8=Navijáky
-shop_t9=Vlasce
-shop_t10=Háčky/trojháčky
-shop_t11=Splávky/NÁvazce
-shop_t12=Příslušenství
-shop_t13=Signalizátory
-shop_t14=Potraviny
-shop_t15=Výroba
-shop_t16=Různé
-shop_t17=Návody
-shop_t20=Cestování
-shop_t18=Speciální
+shop_t1=<color='#FFB74D'>Návnady</color>
+shop_t2=<color='#FFB74D'>Třpytky/NÁvnady</color>
+shop_t3=<color='#FFB74D'>Imitace návnad</color>
+shop_t4=<color='#FFB74D'>Přísady do návnad</color>
+shop_t5=<color='#FFB74D'>Pruty na splávek</color>
+shop_t6=<color='#FFB74D'>Přívlačové Pruty</color>
+shop_t7=<color='#FFB74D'>Feederové Pruty</color>
+shop_t8=<color='#FFB74D'>Navijáky</color>
+shop_t9=<color='#FFB74D'>Vlasce</color>
+shop_t10=<color='#FFB74D'>Háčky/trojháčky</color>
+shop_t11=<color='#FFB74D'>Splávky/NÁvazce</color>
+shop_t12=<color='#FFB74D'>Příslušenství</color>
+shop_t13=<color='#FFB74D'>Signalizátory</color>
+shop_t14=<color='#FFB74D'>Potraviny</color>
+shop_t15=<color='#FFB74D'>Výroba</color>
+shop_t16=<color='#FFB74D'>Různé</color>
+shop_t17=<color='#FFB74D'>Návody</color>
+shop_t20=<color='#FFB74D'>Cestování</color>
+shop_t18=<color='#FFB74D'>Speciální</color>
 
-shop_t22=Muškaření
-shop_t23=Mušky
-shop_t24=Lodě
-shop_t25=Ceny
+shop_t22=<color='#FFB74D'>Muškaření</color>
+shop_t23=<color='#FFB74D'>Mušky</color>
+shop_t24=<color='#FFB74D'>Lodě</color>
+shop_t25=<color='#FFB74D'>Ceny</color>
 
-min_lev=Úroveň {1}
+min_lev=<color='#{0}'>Úroveň {1}</color>
 
 #------------------------------------
 #Added 05.04.2017
 
-wpn_timed=<color='#FF80AB'>Do konce: {0} </color>
-wpn_sost=\nPřísady:
-wpn_master=<color='#FFD700'>Vytvořené hráčem {0}</color>
-wpn_break=\n<color='#FF5252'>Zničeno!</color>\n
-wpn_book1=<color='#69F0AE'>Vzdělávání: {0} - již studoval +300 dovednostních exp.</color>\n
-wpn_book2=<color='#FFA726'>Vzdělávání: {0} - nestudoval</color>\n
-wpn_dress1=Ochrana před radiací: {0}\n
-wpn_dress2=Ochrana proti agresivnímu prostředí: {0}\n
-wpn_reM1=Oprava: +{0} trvanlivost položky\n
-wpn_reM2=Ztráta základní odolnosti: {0}\n
-wpn_reM3=Minimální hranice opravy: {0}\n
-wpn_reM4=K opravě:
+wpn_timed=<color='#FFB74D'>Do konce: {0} </color>
+wpn_sost=<color='#FFB74D'>\nPřísady:</color>
+wpn_master=<color='#FFB74D'>Vytvořené hráčem {0}</color>
+wpn_break=<color='#FFB74D'>\nZničeno!\n</color>
+wpn_book1=<color='#FFB74D'>Vzdělávání: {0} - již studoval +300 dovednostních exp.\n</color>
+wpn_book2=<color='#FFB74D'>Vzdělávání: {0} - nestudoval\n</color>
+wpn_dress1=<color='#FFB74D'>Ochrana před radiací: {0}\n</color>
+wpn_dress2=<color='#FFB74D'>Ochrana proti agresivnímu prostředí: {0}\n</color>
+wpn_reM1=<color='#FFB74D'>Oprava: +{0} trvanlivost položky\n</color>
+wpn_reM2=<color='#FFB74D'>Ztráta základní odolnosti: {0}\n</color>
+wpn_reM3=<color='#FFB74D'>Minimální hranice opravy: {0}\n</color>
+wpn_reM4=<color='#FFB74D'>K opravě:</color>
 
-wpn_rec1=Recept na vytvoření:\n {0} X{1} ks \n
-wpn_rec2=<color='#E040FB'>Neomezeno</color>\n
-wpn_rec3=Množství použití: {0},ks\n
-wpn_rec4=Vyžaduje stůl: {0}\n
-wpn_rec5=Požadovaná profese: {1}\n
-wpn_eat1=Zahnání hladu: <color='#69F0AE'>{0}</color>\n
-wpn_eat2=Způsobuje pocit hladu: <color='#FF5252'>{0}</color>\n
-wpn_eat3=Zahnání žízně: {0}\n
-wpn_eat4=Vyvolání žízně: {0}\n
-wpn_eat5=Odolnost vůči radiaci: <color='#69F0AE'>+{0}</color>\n
-wpn_eat6=Odolnost vůči radiaci: <color='#FF5252'>-{0}</color>\n
-wpn_eat7=Výdrž: +{0}
-wpn_eat8=Výdrž: -{0}
+wpn_rec1=<color='#FFB74D'>Recept na vytvoření:\n {0} X{1} ks \n</color>
+wpn_rec2=<color='#FFB74D'>Neomezeno\n</color>
+wpn_rec3=<color='#FFB74D'>Množství použití: {0},ks\n</color>
+wpn_rec4=<color='#FFB74D'>Vyžaduje stůl: {0}\n</color>
+wpn_rec5=<color='{0}'>Požadovaná profese: {1}</color> \n
+wpn_eat1=<color='#FFB74D'>Zahnání hladu: {0}\n</color>
+wpn_eat2=<color='#FFB74D'>Způsobuje pocit hladu: {0}\n</color>
+wpn_eat3=<color='#FFB74D'>Zahnání žízně: {0}\n</color>
+wpn_eat4=<color='#FFB74D'>Vyvolání žízně: {0}\n</color>
+wpn_eat5=<color='#FFB74D'>Odolnost vůči radiaci: +{0}\n</color>
+wpn_eat6=<color='#FFB74D'>Odolnost vůči radiaci: -{0}\n</color>
+wpn_eat7=<color='#FFB74D'>Výdrž: +{0}</color>
+wpn_eat8=<color='#FFB74D'>Výdrž: -{0}</color>
 
-wpn_med1=Obnova výdrže: {0}\n
-wpn_med2=Poškozená zdraví: {0}\n
-wpn_tank1=Kapacita hmotnosti: {0}
-wpn_tank2=Kapacita množství: {0} ks
+wpn_med1=<color='#FFB74D'>Obnova výdrže: {0}\n</color>
+wpn_med2=<color='#FFB74D'>Poškozená zdraví: {0}\n</color>
+wpn_tank1=<color='#FFB74D'>Kapacita hmotnosti: {0}</color>
+wpn_tank2=<color='#FFB74D'>Kapacita množství: {0} ks</color>
 
-wpn_bait1=Atraktivita: {0}%
-wpn_popl1=+Zvukový hlásič záběru
-wpn_hook1=Ostrost: {0} %\n
+wpn_bait1=<color='#FFB74D'>Atraktivita: {0}%</color>
+wpn_popl1=<color='#FFB74D'>+Zvukový hlásič záběru</color>
+wpn_hook1=Ostrost: {0} % \n
 wpn_hook2=Velikost: {0}
 
-wpn_line1=Pevnost: {0}\n
-wpn_line2=Délka: {0} m
+wpn_line1=<color='#FFB74D'>Pevnost: {0}\n</color>
+wpn_line2=<color='#FFB74D'>Délka: {0} m</color>
 
-wpn_cat1=Posílení:
-wpn_cat2=Kompenzace:
-wpn_cat3=Chybí:
-wpn_cat4=Brzda:
+wpn_cat1=<color='#FFB74D'>Posílení:</color>
+wpn_cat2=<color='#FFB74D'>Kompenzace:</color>
+wpn_cat3=<color='#FFB74D'>Chybí:</color>
+wpn_cat4=<color='#FFB74D'>Brzda:</color>
 
 #Added 27.03.2017
 #------------------------------------
@@ -1973,7 +1983,7 @@ gi_um_rec=Chycen/a/o {1}\n{2}
 // Окно инфо
 gi_uinf_0=Úroveň: {0}    čas Online: {1}
 
-gi_uinf_1=Síla: {0}
+gi_uinf_1=<color='#FFB74D'>Síla: {0}</color>
 gi_uinf_1i=Vliv síly na tažnou schopnost a na nosnou hmotnost
 
 gi_uinf_2=Přesnost: {0}
@@ -2112,18 +2122,18 @@ bs_nomoney=Nedostatek peněz!
 bs_noprip=Nedostatek zásob!
 
 
-wpn_izn=\nOdolnost:
-wpn_onlym=Muž
-wpn_onlyw=Žena
+wpn_izn=<color='#FFB74D'>\nOdolnost:</color>
+wpn_onlym=<color='#{0}'>Muž</color>
+wpn_onlyw=<color='#{0}'>Žena</color>
 
-wpn_rod1=Váha: {0}\n
-wpn_rod2=Délka: {0} m \n
-wpn_rod3=Hloubka: {0} m
-wpn_rod4=Test: {0}
+wpn_rod1=<color='#FFB74D'>Váha: {0}\n</color>
+wpn_rod2=<color='#FFB74D'>Délka: {0} m \n</color>
+wpn_rod3=<color='#FFB74D'>Hloubka: {0} m</color>
+wpn_rod4=<color='#FFB74D'>Test: {0}</color>
 
-wpn_lv=Úroveň
-wpn_lvf=Úroveň
-wpn_cmp=Složka
+wpn_lv=<color='#FFB74D'>Úroveň</color>
+wpn_lvf=<color='#FFB74D'>Úroveň</color>
+wpn_cmp=<color='#FFB74D'>Složka</color>
 
 
 
@@ -2294,12 +2304,12 @@ fwgt_sml_m=Malý
 fwgt_sml_w=Malá
 fwgt_big_m=Velký
 fwgt_big_w=Velká
-fwgt_trof_m=Trofejní
-fwgt_trof_w=Trofejní
-fwgt_uniq_m=★★★Unikátní★★★
-fwgt_uniq_w=★★★Unikátní★★★
+fwgt_trof_m=Větší
+fwgt_trof_w=Větší
+fwgt_uniq_m=★★★Trofejní★★★
+fwgt_uniq_w=★★★Trofejní★★★
 
-time_format1={0} Min
+time_format1={0} min
 time_format2={0}H {1} min
 time_format3={0}D {1}h {2} min
 
@@ -2353,50 +2363,62 @@ no_stanok=Špatný stůl!
 
 
 [BAG]
-bag1_name=<color='#FFD54F'>Rybářské pruty</color>
+bag1_name=<color='#FFB74D'>Rybářské pruty</color>
 bag1_info=Rybářské pruty
 
-bag2_name=<color='#4FC3F7'>Náčiní</color>
+bag2_name=<color='#FFB74D'>Náčiní</color>
 bag2_info=Vlasce, navijáky, splávky a háčky
 
-bag3_name=<color='#81C784'>Vybavení</color>
+bag3_name=<color='#FFB74D'>Vybavení</color>
 bag3_info=Rybářské vybavení
 
-bag4_name=<color='#FF8A65'>Jídlo a suroviny</color>
+bag4_name=<color='#FFB74D'>Jídlo a suroviny</color>
 bag4_info=Jídlo a nápoje
 
-bag5_name=<color='#BA68C8'>Výroba</color>
+bag5_name=<color='#FFB74D'>Výroba</color>
 bag5_info=Řemeslné suroviny a recepty
 
-bag6_name=<color='#FFF176'>Signalizace</color>
+bag6_name=<color='#FFB74D'>Signalizace</color>
 bag6_info=Zvonky a elektrické signalizátory
 
-bag7_name=<color='#AED581'>Návnady</color>
+bag7_name=<color='#FFB74D'>Návnady</color>
 bag7_info=Nástrahy a návnady
 
-bag8_name=<color='#FFD700'>Měna</color>
+bag8_name=<color='#FFB74D'>Měna</color>
 bag8_info=Různé měny
 
-bag9_name=<color='#CE93D8'>Sbírka</color>
+bag9_name=<color='#FFB74D'>Sbírka</color>
 bag9_info=Sběratelské předměty
 
-bag10_name=<color='#B0BEC5'>Různé</color>
+bag10_name=<color='#FFB74D'>Různé</color>
 bag10_info=Různé položky nezahrnuté do kategorií
 
-bag11_name=<color='#4DD0E1'>Vláčení</color>
+bag11_name=<color='#FFB74D'>Vláčení</color>
 bag11_info=Spinningové náčiní
 
-bag12_name=<color='#DCE775'>Krmiva</color>
+bag12_name=<color='#FFB74D'>Krmiva</color>
 bag12_info=Suché směsi, dipy a atraktanty
 
 bag13_name=<color='#FFB74D'>Háčky</color>
 bag13_info=Háčky a jigy
 
-bag14_name=<color='#80CBC4'>Mušky</color>
+bag14_name=<color='#FFB74D'>Mušky</color>
 bag14_info=Mušky k muškaření
 
-bag15_name=<color='#ffd700'>Vzhledy</color>
+bag15_name=<color='#FFB74D'>Vzhledy</color>
 bag15_info=Skiny, přívěsky a avatary
 
-bag52_name=<color='#90CAF9'>Sklad</color>
+bag52_name=<color='#FFB74D'>Sklad</color>
 bag52_info=Prostor pro skladování
+
+npc_panel=OVLÁDACÍ PANEL SPUŠTĚNÍ
+stanok_mangal=Gril
+npc_shashlikman=Armen Aramjan
+tf_wpr2s=
+sadokfull2=<color='#FF7043'>VEZÍREK JE PLNÝ!</color>
+ptur_ot_110=<color='#8080ff'>ZIMNÍ</color>
+turn_uslrt_110=<color='#8080ff'>ZIMNÍ</color>
+rclassfull_0=<color='#FFB74D'>Lehký</color>
+wptypepilk=Mořské pilkery
+tf_wpr1s={0}\nDélka: {1} m
+cosmo_toyok=ČÁST PŘIDÁNA
