@@ -1,0 +1,18 @@
+1010`tWorm
+1018`tBloodworm
+1019`tWhite Maggot
+1020`tWorm Bundle
+1088`tBark Beetle Larva
+1163`tMole Cricket
+1239`tLeech
+1445`tMuckworm
+1648`tSeaworm
+1763`tCaddisfly Larva
+1766`tMayfly Larva
+1767`tDragonfly Nymph
+1928`tWaxworm
+1929`tMaggot - Natural
+1930`tMaggot - Red
+1931`tMaggot - Green
+2056`tMealworm
+2425`tMarine Worm Piece
