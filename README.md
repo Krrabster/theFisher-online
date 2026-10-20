@@ -18,3 +18,4 @@ Balíček červů a larev má v `_MODINFO.xml` zatím `steammid=0`; na Steam Wor
 - `concepts/fish-icons/zander-weight-variants/` – návrh candáta v pěti hmotnostních třídách včetně trofejní a světové rekordní velikosti; obsahuje zadání a postup pro navázání.
 
 - `concepts/fish-icons/white-eye-bream-id5/` – první dokončená sada pěti hmotnostních ikon White-Eye Bream (ID 5), včetně PNG souborů 512 × 256 px a náhledu.
+- `concepts/fish-icons/ids-6-to-9/` – druhá sada rybích ikon pro ID 6–9, PNG 512 × 256 px, s náhledem a poznámkami.

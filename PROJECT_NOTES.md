@@ -33,3 +33,8 @@ Tento repozitář uchovává pracovní postup, dokumentaci a připravené textur
 - Soubory `5.png`, `5_0.png`, `5_1.png`, `5_2.png`, `5_3.png` zachovávají názvy a mají 512 × 256 px.
 - Hmotnostní pořadí podle velikosti původních siluet: `_0` nejmenší, `_1`, nepříponovaná varianta, `_2` trofejní a `_3` světový rekord.
 - `0.png`, `1.png`, `-1.png` vynechat. Další platné ID je `6` (Huso). Kompletní zadání první sady je v README dané složky.
+
+## Nové rybí ikony – druhá sada
+- Dokončena ID `6–9` v `concepts/fish-icons/ids-6-to-9/`: Huso, Grass Carp, Volga Zander, Black Bass.
+- Ve zdrojové složce mají tato ID jen základní PNG bez hmotnostních přípon; zachovány tedy soubory `6.png` až `9.png`, každý 512 × 256 px.
+- Vynechat `0.png`, `1.png`, `-1.png`. Další sada začíná od ID `10`.
