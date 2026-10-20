@@ -27,3 +27,9 @@ Tento repozitář uchovává pracovní postup, dokumentaci a připravené textur
 - Poslední dvě varianty musí jasně působit jako trofejní kus a světový rekord, převážně změnou proporcí a mohutnosti.
 - Před tvorbou finálních textur ověřit přesné pořadí názvů variant. Konceptový obrázek není hotový herní asset.
 - Celé zadání a další kroky: `concepts/fish-icons/zander-weight-variants/README.md`.
+
+## Nové rybí ikony – stav první sady
+- Dokončena sada ID `5` White-Eye Bream v `concepts/fish-icons/white-eye-bream-id5/`.
+- Soubory `5.png`, `5_0.png`, `5_1.png`, `5_2.png`, `5_3.png` zachovávají názvy a mají 512 × 256 px.
+- Hmotnostní pořadí podle velikosti původních siluet: `_0` nejmenší, `_1`, nepříponovaná varianta, `_2` trofejní a `_3` světový rekord.
+- `0.png`, `1.png`, `-1.png` vynechat. Další platné ID je `6` (Huso). Kompletní zadání první sady je v README dané složky.
