@@ -13,3 +13,6 @@ Projektová dokumentace a připravené texturové mody pro The Fisher Online.
 ## Workshop
 
 Balíček červů a larev má v `_MODINFO.xml` zatím `steammid=0`; na Steam Workshop nebyl publikován. Steam ID se doplní až po nahrání přes herní Workshop rozhraní.
+
+## Koncepty rybích ikon
+- `concepts/fish-icons/zander-weight-variants/` – návrh candáta v pěti hmotnostních třídách včetně trofejní a světové rekordní velikosti; obsahuje zadání a postup pro navázání.

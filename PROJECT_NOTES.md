@@ -20,3 +20,10 @@ Tento repozitář uchovává pracovní postup, dokumentaci a připravené textur
 2. Ověřit, které balíčky a herní textury stále existují.
 3. Nezveřejňovat originální zálohy.
 4. Steam ID doplnit až po vytvoření Workshop položky.
+
+## Koncept nových rybích ikon – pokračovat příště
+- Koncept candáta podle hmotnosti je uložen v `concepts/fish-icons/zander-weight-variants/`.
+- Začít ID `105` (candát). Varianty se liší hmotností; číselná přípona `_číslo` je velikostní varianta.
+- Poslední dvě varianty musí jasně působit jako trofejní kus a světový rekord, převážně změnou proporcí a mohutnosti.
+- Před tvorbou finálních textur ověřit přesné pořadí názvů variant. Konceptový obrázek není hotový herní asset.
+- Celé zadání a další kroky: `concepts/fish-icons/zander-weight-variants/README.md`.
